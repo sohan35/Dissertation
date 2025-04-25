@@ -1,0 +1,771 @@
+Sr. No.,Police Station,Year,Head,Date,Place_of_offence,Key_location,Week_no.,Geo_Location,Crowd_Density,Crime_Location_Type
+1,Anjuna_Ps,2019,Theft (Auto Theft),03-03-2019,Munag Vaddo Assagao,Assagao,1,"(15.6000, 73.7500)",Low,LocalArea
+2,Anjuna_Ps,2019,Theft (Auto Theft),14-10-2019,Chapora Bardez Goa,Chapora,2,"(15.6032, 73.7421)",Medium,ClubArea
+3,Anjuna_Ps,2019,Theft (Auto Theft),22-10-2019,Near Gram Panchayat Building Assagao,Assagao,4,"(15.6000, 73.7500)",Low,LocalArea
+4,Anjuna_Ps,2019,Theft (Auto Theft),26-10-2019,Arpora Bardez Goa,Arpora,4,"(15.5728, 73.7677)",Medium,ClubArea
+5,Anjuna_Ps,2019,Theft (Auto Theft),22-11-2019,Vale Vaddo Assagao,Assagao,4,"(15.6000, 73.7500)",Low,LocalArea
+6,Anjuna_Ps,2019,Theft (Auto Theft),19-12-2019,Near 23 Rest Arpora,Arpora,3,"(15.5728, 73.7677)",Medium,ClubArea
+7,Anjuna_Ps,2019,Theft (House Theft),24-02-2019,Villa No.2 Candy Flas Nagoa,Nagoa,4,"(15.5700, 73.7700)",Low,InHouse
+8,Anjuna_Ps,2019,Theft (House Theft),10-08-2019,Jungle Guest House Vagator,Vagator,2,"(15.5916, 73.7441)",Medium,InHouse
+9,Anjuna_Ps,2019,Theft (House Theft),11-10-2019,Shri Siddeshwar Devasthan Chapora,Chapora,2,"(15.6032, 73.7421)",Medium,LocalArea
+10,Anjuna_Ps,2019,Theft (House Theft),09-12-2019,Bloo Resort Vagator,Vagator,2,"(15.5916, 73.7441)",Medium,InHouse
+11,Anjuna_Ps,2019,Theft (House Theft),17-12-2019,Villa No.3 & 4 Igrezwaddo Marna Siolim,Siolim,3,"(15.6201, 73.7772)",Low,InHouse
+12,Anjuna_Ps,2019,Theft (House Theft),21-12-2019,Villa Goa Soutawadda Assagao,Assagao,3,"(15.6000, 73.7500)",Low,InHouse
+13,Anjuna_Ps,2019,Theft (HBT Night),13-03-2019,Hno.1317 Bammon Vaddo Siolim,Siolim,2,"(15.6201, 73.7772)",Low,InHouse
+14,Anjuna_Ps,2019,Theft (HBT Night),15-03-2019,Hno.466 Temar Boutavaddo Assagao,Assagao,3,"(15.6000, 73.7500)",Low,InHouse
+15,Anjuna_Ps,2019,Theft (HBT Night),31-03-2019,563/1 Village Anjuna,Anjuna,5,"(15.5849, 73.7439)",Medium,InHouse
+16,Anjuna_Ps,2019,Theft (HBT Night),05-12-2019,Hno.1046 Deulwadddo Vagator,Vagator,1,"(15.5916, 73.7441)",Medium,InHouse
+17,Anjuna_Ps,2019,Assault (Hurt),26-03-2019,Nagoa,Nagoa,4,"(15.5700, 73.7700)",Low,LocalArea
+18,Anjuna_Ps,2019,Assault (Hurt),21-04-2019,Dabholwaddo Chapora,Chapora,3,"(15.6032, 73.7421)",Medium,LocalArea
+19,Anjuna_Ps,2019,Assault (Hurt),10-08-2019,Fuldem Vaddo Nagoa,Nagoa,2,"(15.5700, 73.7700)",Low,LocalArea
+20,Anjuna_Ps,2019,Assault (Hurt),19-09-2019,Near Rocket Berger Rest Anjuna,Anjuna,3,"(15.5849, 73.7439)",Medium,ClubArea
+21,Anjuna_Ps,2019,Assault (Hurt),04-11-2019,Hno.387 Sim Waddo Arpora,Arpora,1,"(15.5728, 73.7677)",Medium,InHouse
+22,Anjuna_Ps,2019,Drug Related (NDPS),07-01-2019,Near Tembi Ground Anjuna,Anjuna,1,"(15.5849, 73.7439)",Medium,LocalArea
+23,Anjuna_Ps,2019,Drug Related (NDPS),31-01-2019,Near Mamos Corner Bar & Rest Vaddy Siolim,Siolim,5,"(15.6201, 73.7772)",Medium,ClubArea
+24,Anjuna_Ps,2019,Drug Related (NDPS),07-02-2019,Near Ajoba Furniture Siolim,Siolim,1,"(15.6201, 73.7772)",Medium,MarketZone
+25,Anjuna_Ps,2019,Drug Related (NDPS),12-02-2019,Behind Vagator Football Ground Vagator,Vagator,2,"(15.5916, 73.7441)",Medium,LocalArea
+26,Anjuna_Ps,2019,Drug Related (NDPS),12-04-2019,Chaudiwaddo Marna Siolim,Siolim,2,"(15.6201, 73.7772)",Low,LocalArea
+27,Anjuna_Ps,2019,Drug Related (NDPS),22-05-2019,Sorrranto Vaddo Anjuna,Anjuna,4,"(15.5849, 73.7439)",Medium,LocalArea
+28,Anjuna_Ps,2019,Drug Related (NDPS),24-09-2019,Diwan Bhati Arpora,Arpora,4,"(15.5728, 73.7677)",Medium,LocalArea
+29,Anjuna_Ps,2019,Drug Related (NDPS),27-09-2019,Near Tembi Ground Anjuna,Vagator,4,"(15.5916, 73.7441)",Medium,LocalArea
+30,Anjuna_Ps,2019,Drug Related (NDPS),17-10-2019,Behind Vagator Football Ground Vagator,Anjuna,3,"(15.5849, 73.7439)",Medium,LocalArea
+31,Anjuna_Ps,2019,Drug Related (NDPS),31-10-2019,Y Junction Gumal Vaddo Anjuna,Anjuna,5,"(15.5849, 73.7439)",Medium,OnRoad
+32,Anjuna_Ps,2019,Drug Related (NDPS),12-11-2019,Dias Vaddo Nagoa,Nagoa,2,"(15.5700, 73.7700)",Low,LocalArea
+33,Anjuna_Ps,2019,Drug Related (NDPS),26-11-2019,Near St Anthony Hospital Chiwar Anjuna,Anjuna,4,"(15.5849, 73.7439)",High,NearCollege
+34,Anjuna_Ps,2019,Drug Related (NDPS),30-12-2019,Near Lake Talyacho Band Anjuna,Anjuna,5,"(15.5849, 73.7439)",Medium,LocalArea
+35,Anjuna_Ps,2020,Theft (Auto Theft),24-02-2020,Grand Chiwar Anjuna,Anjuna,4,"(15.5849, 73.7439)",Medium,LocalArea
+36,Anjuna_Ps,2020,Theft (Auto Theft),26-06-2020,Va Vegas Super Market Arpora,Arpora,4,"(15.5728, 73.7677)",High,MarketZone
+37,Anjuna_Ps,2020,Theft (Auto Theft),01-07-2020,Near Corporation Bank Siolim,Siolim,1,"(15.6201, 73.7772)",High,MarketZone
+38,Anjuna_Ps,2020,Theft (Auto Theft),02-11-2020,Huddo Waddo Chapora,Chapora,1,"(15.6032, 73.7421)",Medium,LocalArea
+39,Anjuna_Ps,2020,Theft (House Theft),02-01-2020,"Room No.3, Barsa Guest House Assagao",Assagao,1,"(15.6000, 73.7500)",Low,InHouse
+40,Anjuna_Ps,2020,Theft (House Theft),18-01-2020,Curlies Rest Dando Anjuna,Anjuna,3,"(15.5849, 73.7439)",High,ClubArea
+41,Anjuna_Ps,2020,Theft (House Theft),20-04-2020,Hotel Regent Laguna Anjuna,Anjuna,3,"(15.5850, 73.7435)",High,InHouse
+42,Anjuna_Ps,2020,Theft (House Theft),30-11-2020,Charvi Romio Anjuna,Anjuna,5,"(15.5849, 73.7439)",Medium,InHouse
+43,Anjuna_Ps,2020,Theft (HBT Night),12-03-2020,BSNL Exchange Sauta Vaddo Assagao,Assagao,2,"(15.6002, 73.7501)",Low,MarketZone
+44,Anjuna_Ps,2020,Theft (HBT Night),23-03-2020,Co-Operative Society Chapora,Chapora,4,"(15.6032, 73.7421)",Medium,MarketZone
+45,Anjuna_Ps,2020,Theft (HBT Night),14-04-2020,Flat No.95/2 Vadi Siolim,Siolim,2,"(15.6201, 73.7772)",Low,InHouse
+46,Anjuna_Ps,2020,Assault (Hurt),21-01-2020,Guddem Siolim,Siolim,3,"(15.6201, 73.7772)",Low,LocalArea
+47,Anjuna_Ps,2020,Assault (Hurt),28-01-2020,Jungle Hostel Vagator,Vagator,4,"(15.5916, 73.7441)",Medium,InHouse
+48,Anjuna_Ps,2020,Assault (Hurt),18-03-2020,Tito Anjuna,Anjuna,3,"(15.5851, 73.7433)",High,ClubArea
+49,Anjuna_Ps,2020,Assault (Hurt),18-03-2020,Anjuna Tito,Anjuna,3,"(15.5851, 73.7433)",High,ClubArea
+50,Anjuna_Ps,2020,Assault (Hurt),26-04-2020,Madhlo Vaddo Assagao,Assagao,5,"(15.6003, 73.7502)",Low,LocalArea
+51,Anjuna_Ps,2020,Assault (Hurt),10-06-2020,Continental Hotel Arpora,Arpora,2,"(15.5728, 73.7677)",Medium,InHouse
+52,Anjuna_Ps,2020,Assault (Hurt),02-08-2020,Near la Vida Suits Arpora,Arpora,2,"(15.5728, 73.7677)",Medium,InHouse
+53,Anjuna_Ps,2020,Assault (Hurt),12-09-2020,Esco Bar & Rest Munag Vaddo Assagao,Assagao,2,"(15.6005, 73.7503)",Medium,ClubArea
+54,Anjuna_Ps,2020,Assault (Hurt),09-10-2020,Waddi Siolim,Siolim,2,"(15.6201, 73.7772)",Low,LocalArea
+55,Anjuna_Ps,2020,Assault (Hurt),21-10-2020,Ozran Height Vagator,Vagator,4,"(15.5916, 73.7441)",Medium,LocalArea
+56,Anjuna_Ps,2020,Assault (Hurt),02-11-2020,Zorwaddo Muddi Anjuna,Anjuna,2,"(15.5849, 73.7439)",Medium,LocalArea
+57,Anjuna_Ps,2020,Assault (Hurt),14-11-2020,Sim Vaddo Arpora,Arpora,3,"(15.5728, 73.7677)",Medium,LocalArea
+58,Anjuna_Ps,2020,Assault (Hurt),24-11-2020,Sankwadi Arpora,Arpora,5,"(15.5728, 73.7677)",Medium,LocalArea
+59,Anjuna_Ps,2020,Assault (Hurt),09-12-2020,Near German Bakery Anjuna,Anjuna,2,"(15.5852, 73.7438)",Medium,MarketZone
+60,Anjuna_Ps,2020,Assault (Hurt),14-12-2020,Baga Bridge Arpora,Arpora,3,"(15.5560, 73.7522)",High,OnRoad
+61,Anjuna_Ps,2020,Assault (Hurt),23-12-2020,Anjuna Tito,Anjuna,4,"(15.5851, 73.7433)",High,ClubArea
+62,Anjuna_Ps,2020,Drug Related (NDPS),06-01-2020,Ozran Vagator,Vagator,2,"(15.5918, 73.7442)",Medium,LocalArea
+63,Anjuna_Ps,2020,Drug Related (NDPS),07-01-2020,Y Junction Gumal Waddo Anjuna,Anjuna,2,"(15.5853, 73.7436)",Medium,OnRoad
+64,Anjuna_Ps,2020,Drug Related (NDPS),17-01-2020,Four Road Junction Assagao,Assagao,3,"(15.6004, 73.7505)",Medium,OnRoad
+65,Anjuna_Ps,2020,Drug Related (NDPS),28-01-2020,Four Road Junction Assagao,Assagao,5,"(15.6004, 73.7505)",Medium,OnRoad
+66,Anjuna_Ps,2020,Drug Related (NDPS),11-02-2020,Near Happy Bar Rest Assagao,Assagao,3,"(15.6007, 73.7506)",Medium,ClubArea
+67,Anjuna_Ps,2020,Drug Related (NDPS),13-03-2020,Exotic Regency Siolim,Siolim,3,"(15.6202, 73.7773)",Medium,InHouse
+68,Anjuna_Ps,2020,Drug Related (NDPS),15-03-2020,Tembi Ground Anjuna,Anjuna,4,"(15.5847, 73.7432)",Medium,LocalArea
+69,Anjuna_Ps,2020,Drug Related (NDPS),29-08-2020,T Junction Monterio Vaddo Anjuna,Anjuna,5,"(15.5855, 73.7437)",Medium,OnRoad
+70,Anjuna_Ps,2020,Drug Related (NDPS),05-09-2020,Munag Vaddo Assagao,Assagao,1,"(15.6009, 73.7507)",Low,LocalArea
+71,Anjuna_Ps,2020,Drug Related (NDPS),19-09-2020,Ingrezvaddo Marna Siolim,Siolim,3,"(15.6205, 73.7774)",Low,LocalArea
+72,Anjuna_Ps,2020,Drug Related (NDPS),03-10-2020,Chiwar Anjuna,Anjuna,1,"(15.5858, 73.7440)",Medium,LocalArea
+73,Anjuna_Ps,2020,Drug Related (NDPS),27-10-2020,Ozran Vagator,Vagator,5,"(15.5918, 73.7442)",Medium,LocalArea
+74,Anjuna_Ps,2021,Theft (Auto Theft),09-01-2021,Near Babet Tailor Shop Assagao,Assagao,2,"(15.6010, 73.7508)",Low,MarketZone
+75,Anjuna_Ps,2021,Theft (Auto Theft),30-04-2021,Huddo Vaddo Chapora,Arpora,5,"(15.5730, 73.7680)",Medium,Beachside
+76,Anjuna_Ps,2021,Theft (Auto Theft),15-05-2021,Bouta Vaddo Assagao,Assagao,3,"(15.6013, 73.7509)",Low,LocalArea
+77,Anjuna_Ps,2021,Theft (Auto Theft),11-06-2021,Dabholwado Chapora,Arpora,2,"(15.5735, 73.7682)",Medium,LocalArea
+78,Anjuna_Ps,2021,Theft (Auto Theft),01-09-2021,Near DMC College Vale Waddo Assagao,Assagao,1,"(15.6015, 73.7510)",Medium,NearCollege
+79,Anjuna_Ps,2021,Theft (Auto Theft),05-10-2021,Infront of Hno.1397 Doxxier Anjuna,Anjuna,2,"(15.5861, 73.7441)",Low,InHouse
+80,Anjuna_Ps,2021,Theft (Auto Theft),26-10-2021,Infront of Hno.1110 Mazal Vaddo Anjuna,Anjuna,5,"(15.5863, 73.7443)",Low,InHouse
+81,Anjuna_Ps,2021,Theft (Auto Theft),16-11-2021,Near Dinesh Café Starco Anjuna,Anjuna,3,"(15.5865, 73.7444)",Medium,MarketZone
+82,Anjuna_Ps,2021,Theft (Auto Theft),30-12-2021,Near Bablo Garage Arpora,Arpora,5,"(15.5738, 73.7684)",Medium,MarketZone
+83,Anjuna_Ps,2021,Theft (House Theft),26-01-2021,Zor Waddo Chapora,Arpora,5,"(15.5740, 73.7685)",Medium,LocalArea
+84,Anjuna_Ps,2021,Theft (House Theft),01-02-2021,Castel Villa Anjuna,Anjuna,1,"(15.5868, 73.7445)",Medium,InHouse
+85,Anjuna_Ps,2021,Theft (House Theft),03-02-2021,Villa No.4 Villa Casa Anjuna,Anjuna,1,"(15.5870, 73.7446)",Medium,InHouse
+86,Anjuna_Ps,2021,Theft (House Theft),08-02-2021,Casa Apt Madhlem Bhat Siolim,Siolim,2,"(15.6208, 73.7775)",Low,InHouse
+87,Anjuna_Ps,2021,Theft (House Theft),14-07-2021,Room D-5 Hotel Capital Casa Royal Vagator,Vagator,3,"(15.5920, 73.7447)",Medium,InHouse
+88,Anjuna_Ps,2021,Theft (House Theft),22-07-2021,Rented Villa Mandovi Arpora,Arpora,4,"(15.5742, 73.7686)",Medium,InHouse
+89,Anjuna_Ps,2021,Theft (House Theft),01-08-2021,O Punjab Rest Arpora,Arpora,2,"(15.5745, 73.7687)",Medium,ClubArea
+90,Anjuna_Ps,2021,Theft (House Theft),18-09-2021,Mazal Vaddo Anjuna,Anjuna,3,"(15.5869, 73.7448)",Medium,LocalArea
+91,Anjuna_Ps,2021,Theft (House Theft),21-09-2021,251/9 Hudo Waddo Chapora,Chapora,4,"(15.5732, 73.7689)",Medium,InHouse
+92,Anjuna_Ps,2021,Theft (House Theft),11-11-2021,Talva Party Hostel Anjuna,Anjuna,2,"(15.5872, 73.7449)",High,InHouse
+93,Anjuna_Ps,2021,Theft (House Theft),28-11-2021,Bunglow 1 Govia Hillside Wadi Siolim,Siolim,5,"(15.6210, 73.7776)",Low,InHouse
+94,Anjuna_Ps,2021,Theft (House Theft),26-12-2021,Hno.772/1 St Michael Waddo Anjuna,Anjuna,5,"(15.5875, 73.7450)",Low,InHouse
+95,Anjuna_Ps,2021,Theft (House Theft),31-12-2021,Siolim,Siolim,5,"(15.6213, 73.7777)",Medium,LocalArea
+96,Anjuna_Ps,2021,Theft (Chain Snatching),14-09-2021,Near Piza Hut Arpora,Arpora,3,"(15.5748, 73.7688)",High,MarketZone
+97,Anjuna_Ps,2021,Theft (Chain Snatching),21-09-2021,Near Snatas Family Saloon Deaulwaddo Vagator,Vagator,4,"(15.5925, 73.7449)",Medium,MarketZone
+98,Anjuna_Ps,2021,Theft (Chain Snatching),16-12-2021,Hno.984/A Tarchibhat Siolim,Siolim,3,"(15.6215, 73.7778)",Low,InHouse
+99,Anjuna_Ps,2021,Theft (HBT Night),05-06-2021,Rented House Monterio Vaddo Anjuna,Anjuna,1,"(15.5878, 73.7451)",Medium,InHouse
+100,Anjuna_Ps,2021,Theft (HBT Night),18-08-2021,Hno.422 Sim Vaddo Arpora,Arpora,4,"(15.5750, 73.7689)",Low,InHouse
+101,Anjuna_Ps,2021,Assault (Hurt),01-01-2021,Badem Chapora,Chapora,1,"(15.5734, 73.7690)",Medium,LocalArea
+102,Anjuna_Ps,2021,Assault (Hurt),27-01-2021,Infront of Vishwas Bar Tar Siolim,Siolim,5,"(15.6218, 73.7779)",High,ClubArea
+103,Anjuna_Ps,2021,Assault (Hurt),27-01-2021,Infront of Vishwas Bar Tar Siolim,Siolim,5,"(15.6218, 73.7779)",High,ClubArea
+104,Anjuna_Ps,2021,Assault (Hurt),02-02-2021,Gubla Waddo Oxel Siolim,Siolim,1,"(15.6220, 73.7780)",Low,LocalArea
+105,Anjuna_Ps,2021,Assault (Hurt),25-02-2021,Near Ganesh Temple Tar Siolim,Siolim,4,"(15.6222, 73.7781)",Medium,ResidentialArea
+106,Anjuna_Ps,2021,Assault (Hurt),03-03-2021,Café Struck Vagator,Vagator,1,"(15.5930, 73.7450)",High,ClubArea
+107,Anjuna_Ps,2021,Assault (Hurt),03-03-2021,Fish Ovan Shack Anjuna Beach,Anjuna,1,"(15.5880, 73.7452)",High,Beachside
+108,Anjuna_Ps,2021,Assault (Hurt),06-03-2021,Bollywood Night Rest Arpora,Arpora,1,"(15.5752, 73.7691)",High,ClubArea
+109,Anjuna_Ps,2021,Assault (Hurt),12-03-2021,St Michael Vaddo Anjuna,Anjuna,2,"(15.5882, 73.7453)",Medium,localArea
+110,Anjuna_Ps,2021,Assault (Hurt),17-03-2021,HNo.81 Mainath Bhati Arpora,Arpora,3,"(15.5754, 73.7692)",Low,InHouse
+111,Anjuna_Ps,2021,Assault (Hurt),17-03-2021,Property bearing No.42/2 Arpora,Arpora,3,"(15.5756, 73.7693)",Low,InHouse
+112,Anjuna_Ps,2021,Assault (Hurt),05-04-2021,Porta Vaddo Siolim,Siolim,2,"(15.6225, 73.7782)",Low,localArea
+113,Anjuna_Ps,2021,Assault (Hurt),14-04-2021,Papi Chulo Hostel Vagator,Vagator,3,"(15.5935, 73.7451)",High,InHouse
+114,Anjuna_Ps,2021,Assault (Hurt),28-04-2021,Anjuna Beach,Anjuna,5,"(15.5885, 73.7454)",High,Beachside
+115,Anjuna_Ps,2021,Assault (Hurt),13-06-2021,Anjuna,Anjuna,3,"(15.5888, 73.7445)",Medium,localArea
+116,Anjuna_Ps,2021,Assault (Hurt),29-07-2021,Hotel Dinesh Starco Anjuna,Anjuna,5,"(15.5890, 73.7446)",High,InHouse
+117,Anjuna_Ps,2021,Assault (Hurt),23-08-2021,Near Theater Junction Siolim,Siolim,5,"(15.6216, 73.7774)",Medium,OnRoad
+118,Anjuna_Ps,2021,Assault (Hurt),23-08-2021,Bus Stop Theater Junction Siolim,Siolim,5,"(15.6217, 73.7775)",High,OnRoad
+119,Anjuna_Ps,2021,Assault (Hurt),30-08-2021,Brahman Devastan Guddem Siolim,Siolim,5,"(15.6220, 73.7776)",Low,ResidentialArea
+120,Anjuna_Ps,2021,Assault (Hurt),09-09-2021,Court Yard Fulddem Vaddo Nagoa,Nagoa,2,"(15.5820, 73.7600)",Low,localArea
+121,Anjuna_Ps,2021,Assault (Hurt),15-09-2021,Edga Fernandes Siolim,Siolim,3,"(15.6222, 73.7777)",Low,localArea
+122,Anjuna_Ps,2021,Assault (Hurt),21-09-2021,HNo.251/9 Huddo Vaddo Chapora,Chapora,4,"(15.5732, 73.7685)",Low,InHouse
+123,Anjuna_Ps,2021,Assault (Hurt),21-09-2021,HNo.251/9 Huddo Vaddo Chapora,Chapora,4,"(15.5732, 73.7685)",Low,InHouse
+124,Anjuna_Ps,2021,Assault (Hurt),29-09-2021,Near Yeshwant Store Chapora,Chapora,5,"(15.5735, 73.7686)",Medium,MarketZone
+125,Anjuna_Ps,2021,Assault (Hurt),02-10-2021,HNo.7/4 Fulddem Vaddo Nagoa,Nagoa,1,"(15.5825, 73.7601)",Low,InHouse
+126,Anjuna_Ps,2021,Assault (Hurt),09-10-2021,Court Yard HNo.1050 Grand Peddem Anjuna,Anjuna,2,"(15.5895, 73.7447)",Low,ResidentialArea
+127,Anjuna_Ps,2021,Assault (Hurt),16-10-2021,Near Anjuna Beach,Anjuna,3,"(15.5900, 73.7448)",High,Beachside
+128,Anjuna_Ps,2021,Assault (Hurt),18-11-2021,Rai Siolim,Siolim,3,"(15.6228, 73.7778)",Medium,localArea
+129,Anjuna_Ps,2021,Drug Related (NDPS),04-02-2021,Fountant Gumal Vaddo Anjuna,Anjuna,1,"(15.5905, 73.7449)",Medium,localArea
+130,Anjuna_Ps,2021,Drug Related (NDPS),05-02-2021,Coutinho Vaddo Vagator,Vagator,1,"(15.5938, 73.7450)",Medium,localArea
+131,Anjuna_Ps,2021,Drug Related (NDPS),07-02-2021,Assagao,Assagao,2,"(15.5890, 73.7650)",Medium,localArea
+132,Anjuna_Ps,2021,Drug Related (NDPS),12-03-2021,Near Sea Garden Prais Vaddo Anjuna,Anjuna,2,"(15.5910, 73.7451)",High,Beachside
+133,Anjuna_Ps,2021,Drug Related (NDPS),22-06-2021,Grand Peddem Anjuna,Anjuna,4,"(15.5915, 73.7452)",Medium,localArea
+134,Anjuna_Ps,2021,Drug Related (NDPS),24-07-2021,HNo.160 Zor Vaddo Anjuna,Anjuna,4,"(15.5920, 73.7453)",Low,InHouse
+135,Anjuna_Ps,2021,Drug Related (NDPS),02-08-2021,Igrez Vaddo Marna Siolim,Siolim,2,"(15.6232, 73.7779)",Medium,localArea
+136,Anjuna_Ps,2021,Drug Related (NDPS),05-08-2021,Gaonwadi Anjuna,Anjuna,2,"(15.5930, 73.7444)",Medium,localArea
+137,Anjuna_Ps,2021,Drug Related (NDPS),05-08-2021,Happy Bar Assagao,Assagao,2,"(15.5892, 73.7651)",High,ClubArea
+138,Anjuna_Ps,2021,Drug Related (NDPS),29-10-2021,Baga Arpora,Arpora,5,"(15.5569, 73.7523)",High,Beachside
+139,Anjuna_Ps,2021,Drug Related (NDPS),05-12-2021,Near Happy Bar Assagao,Assagao,2,"(15.5893, 73.7652)",High,ClubArea
+140,Anjuna_Ps,2021,Drug Related (NDPS),18-12-2021,Near Navelkar Avenue Building Bhati Oxel Siolim,Siolim,3,"(15.6245, 73.7780)",Medium,localArea
+141,Anjuna_Ps,2022,Theft (Auto Theft),13-01-2022,Near Curlies Rest Dando Anjuna,Anjuna,3,"(15.5902, 73.7445)",High,ClubArea
+142,Anjuna_Ps,2022,Theft (Auto Theft),22-02-2022,Wadi Siolim,Siolim,4,"(15.6250, 73.7781)",Medium,localArea
+143,Anjuna_Ps,2022,Theft (Auto Theft),30-03-2022,HNo.4 Vaddy Siolim,Siolim,5,"(15.6255, 73.7782)",Low,InHouse
+144,Anjuna_Ps,2022,Theft (Auto Theft),30-03-2022,Infront of Desmond Money Exchange Shop Anjuna,Anjuna,5,"(15.5907, 73.7446)",Medium,MarketZone
+145,Anjuna_Ps,2022,Theft (Auto Theft),23-06-2022,Near Curlies Rest Dando Anjuna,Anjuna,4,"(15.5902, 73.7445)",High,ClubArea
+146,Anjuna_Ps,2022,Theft (Auto Theft),24-06-2022,Near Starco Junction Anjuna,Anjuna,4,"(15.5909, 73.7447)",High,OnRoad
+147,Anjuna_Ps,2022,Theft (Auto Theft),14-07-2022,Zorwado Anjuna,Anjuna,3,"(15.5913, 73.7448)",Medium,localArea
+148,Anjuna_Ps,2022,Theft (Auto Theft),29-07-2022,Tambudki Arpora,Arpora,5,"(15.5556, 73.7519)",Medium,localArea
+149,Anjuna_Ps,2022,Theft (Auto Theft),15-09-2022,Near F-13 Avolona Arpora,Arpora,3,"(15.5561, 73.7520)",Low,InHouse
+150,Anjuna_Ps,2022,Theft (Auto Theft),29-09-2022,Mango Tree Rest Vagator,Vagator,5,"(15.5935, 73.7451)",High,ClubArea
+151,Anjuna_Ps,2022,Theft (House Theft),21-04-2022,Emporoe Resort Spa Vagator,Vagator,3,"(15.5940, 73.7452)",High,InHouse
+152,Anjuna_Ps,2022,Theft (House Theft),21-06-2022,Navel Avenue Siolim,Siolim,3,"(15.6260, 73.7783)",Medium,localArea
+153,Anjuna_Ps,2022,Theft (House Theft),21-08-2022,247 Sokal Waddo Assagao,Assagao,3,"(15.5900, 73.7653)",Low,InHouse
+154,Anjuna_Ps,2022,Theft (House Theft),20-11-2022,Baga Arpora,Arpora,3,"(15.5569, 73.7523)",High,Beachside
+155,Anjuna_Ps,2022,Theft (Chain Snatching),28-06-2022,Tambudki Waddo Arpora,Arpora,4,"(15.5558, 73.7521)",Medium,localArea
+156,Anjuna_Ps,2022,Theft (HBT Night),16-05-2022,95/A Vaddi Siolim,Siolim,3,"(15.6265, 73.7784)",Low,InHouse
+157,Anjuna_Ps,2022,Theft (HBT Night),22-07-2022,86/2 Marna Siolim,Siolim,4,"(15.6270, 73.7785)",Low,InHouse
+158,Anjuna_Ps,2022,Theft (HBT Night),18-09-2022,Villa Amada Boutawado Assagao,Assagao,3,"(15.5905, 73.7654)",Medium,InHouse
+159,Anjuna_Ps,2022,Theft (HBT Night),02-11-2022,Hotel Mamta Court Yard Anjuna,Anjuna,1,"(15.5917, 73.7449)",High,InHouse
+160,Anjuna_Ps,2022,Theft (HBT Night),27-11-2022,Bammon Vaddo Siolim,Siolim,4,"(15.6268, 73.7786)",Medium,localArea
+161,Anjuna_Ps,2022,Assault (Hurt),01-01-2022,Romeo Lane Vagator,Vagator,1,"(15.5938, 73.7453)",Medium,localArea
+162,Anjuna_Ps,2022,Assault (Hurt),01-01-2022,Abalone Resort Arpora,Arpora,1,"(15.5552, 73.7518)",High,InHouse
+163,Anjuna_Ps,2022,Assault (Hurt),06-01-2022,HNo.484/18 Deulwada Chapora,Chapora,5,"(15.5908, 73.7649)",Low,InHouse
+164,Anjuna_Ps,2022,Assault (Hurt),31-01-2022,1089 Madlembhat Siolim,Siolim,2,"(15.6272, 73.7787)",Low,InHouse
+165,Anjuna_Ps,2022,Assault (Hurt),09-02-2022,Simwado Anjuna,Anjuna,2,"(15.5910, 73.7450)",Medium,localArea
+166,Anjuna_Ps,2022,Assault (Hurt),09-02-2022,Simwado Anjuna,Anjuna,3,"(15.5910, 73.7450)",Medium,localArea
+167,Anjuna_Ps,2022,Assault (Hurt),12-02-2022,410/1 Sim Vaddo Arpora,Arpora,5,"(15.5554, 73.7522)",Low,InHouse
+168,Anjuna_Ps,2022,Assault (Hurt),16-03-2022,Thalasa Rest Vaddi Siolim,Siolim,3,"(15.6280, 73.7788)",High,ClubArea
+169,Anjuna_Ps,2022,Assault (Hurt),30-03-2022,Malbar Band Anjuna,Anjuna,1,"(15.5912, 73.7451)",Medium,localArea
+170,Anjuna_Ps,2022,Assault (Hurt),20-04-2022,Marna Siolim,Siolim,4,"(15.6275, 73.7789)",Medium,ResidentialArea
+171,Anjuna_Ps,2022,Assault (Hurt),01-05-2022,Siolim Bridge Siolim,Siolim,4,"(15.6285, 73.7790)",High,OnRoad
+172,Anjuna_Ps,2022,Assault (Hurt),24-05-2022,Near Darling Bar Chapora,Chapora,1,"(15.5909, 73.7650)",High,ClubArea
+173,Anjuna_Ps,2022,Assault (Hurt),28-06-2022,River Bank Siolim,Siolim,5,"(15.6290, 73.7791)",Medium,Beachside
+174,Anjuna_Ps,2022,Assault (Hurt),05-07-2022,Near DMC Assagao,Assagao,5,"(15.5915, 73.7655)",Low,NearCollege
+175,Anjuna_Ps,2022,Assault (Hurt),29-07-2022,7/4 Fuldem Wado Nagoa,Nagoa,4,"(15.5920, 73.7656)",Low,InHouse
+176,Anjuna_Ps,2022,Assault (Hurt),30-07-2022,Near St Anthony Chapel Anjuna,Anjuna,5,"(15.5918, 73.7452)",Medium,localArea
+177,Anjuna_Ps,2022,Assault (Hurt),24-08-2022,Near Dream Circle Nagoa,Nagoa,2,"(15.5923, 73.7657)",Medium,localArea
+178,Anjuna_Ps,2022,Assault (Hurt),31-08-2022,Badem Assagao,Assagao,2,"(15.5919, 73.7658)",Low,localArea
+179,Anjuna_Ps,2022,Assault (Hurt),12-09-2022,Near W Resort Chapora,Chapora,2,"(15.5910, 73.7659)",High,InHouse
+180,Anjuna_Ps,2022,Assault (Hurt),11-11-2022,Amber Garden Siolim,Siolim,4,"(15.6295, 73.7792)",Medium,localArea
+181,Anjuna_Ps,2022,Assault (Hurt),14-11-2022,Near Raeethi Night Club Vagator,Vagator,1,"(15.5942, 73.7454)",High,ClubArea
+182,Anjuna_Ps,2022,Drug Related (NDPS),23-01-2022,Deulwado Chapora,Chapora,1,"(15.5911, 73.7660)",Medium,localArea
+183,Anjuna_Ps,2022,Drug Related (NDPS),03-02-2022,Near Swami Samartha Temple Siolim,Siolim,1,"(15.6298, 73.7793)",Medium,localArea
+184,Anjuna_Ps,2022,Drug Related (NDPS),03-02-2022,Near Candle Light Bar & Rest Wadi Siolim,Siolim,3,"(15.6300, 73.7794)",High,ClubArea
+185,Anjuna_Ps,2022,Drug Related (NDPS),05-02-2022,Near Domino's Pizza Siolim,Siolim,5,"(15.6305, 73.7795)",High,MarketZone
+186,Anjuna_Ps,2022,Drug Related (NDPS),07-04-2022,Zor Waddo Anjuna,Anjuna,2,"(15.5925, 73.7453)",Medium,localArea
+187,Anjuna_Ps,2022,Drug Related (NDPS),18-04-2022,Rocky Garage Goanwadi Anjuna,Anjuna,3,"(15.5928, 73.7454)",Medium,MarketZone
+188,Anjuna_Ps,2022,Drug Related (NDPS),29-05-2022,Near Vagator Football Ground,Vagator,4,"(15.5945, 73.7455)",High,localArea
+189,Anjuna_Ps,2022,Drug Related (NDPS),12-08-2022,Parking Area Baga Arpora,Arpora,2,"(15.5565, 73.7525)",High,OnRoad
+190,Anjuna_Ps,2022,Drug Related (NDPS),27-08-2022,Curlies Beach Shack Anjuna,Anjuna,4,"(15.5905, 73.7449)",High,Beachside
+191,Anjuna_Ps,2022,Drug Related (NDPS),04-09-2022,159 Muddi Zor Anjuna,Anjuna,1,"(15.5929, 73.7456)",Medium,InHouse
+192,Anjuna_Ps,2022,Drug Related (NDPS),04-09-2022,Near Gaya Hostel Piquen Peddem Anjuna,Anjuna,1,"(15.5931, 73.7457)",Medium,InHouse
+193,Anjuna_Ps,2022,Drug Related (NDPS),04-09-2022,9 Bar Mirage Club Vagator,Vagator,1,"(15.5948, 73.7458)",High,ClubArea
+194,Anjuna_Ps,2022,Drug Related (NDPS),05-09-2022,Near Ganapati Temple Assagao,Assagao,1,"(15.5914, 73.7661)",Medium,localArea
+195,Anjuna_Ps,2022,Drug Related (NDPS),16-09-2022,Near Mango Tree Rest. Vagator,Vagator,3,"(15.5949, 73.7460)",High,ClubArea
+196,Anjuna_Ps,2022,Drug Related (NDPS),25-09-2022,Jungle Hostel Anjuna,Anjuna,4,"(15.5933, 73.7459)",High,InHouse
+197,Anjuna_Ps,2022,Drug Related (NDPS),11-11-2022,Near Electricity Dept Nagao,Nagoa,2,"(15.5926, 73.7662)",Medium,MarketZone
+198,Anjuna_Ps,2022,Drug Related (NDPS),30-11-2022,Near Dibs on Blue Premium Hostel Anjuna,Anjuna,5,"(15.5934, 73.7461)",High,InHouse
+199,Anjuna_Ps,2022,Drug Related (NDPS),04-12-2022,Near Cemetery Uddo Beach Siolim,Siolim,1,"(15.6310, 73.7796)",Medium,Beachside
+200,Anjuna_Ps,2022,Drug Related (NDPS),24-12-2022,Nar Car Parking of Helipad Vagator,Vagator,4,"(15.5952, 73.7462)",High,OnRoad
+201,Anjuna_Ps,2023,Theft (Auto Theft),10-01-2023,Near HDFC Bank Siolim,Siolim,3,"(15.6315, 73.7797)",High,MarketZone
+202,Anjuna_Ps,2023,Theft (Auto Theft),04-02-2023,Fuldem Vaddo Nagoa,Nagoa,1,"(15.5930, 73.7663)",Medium,localArea
+203,Anjuna_Ps,2023,Theft (Auto Theft),15-02-2023,Near House of Chapora,Chapora,3,"(15.5916, 73.7664)",Medium,localArea
+204,Anjuna_Ps,2023,Theft (Auto Theft),20-04-2023,Porta Vaddo Siolim,Siolim,4,"(15.6320, 73.7798)",Medium,ResidentialArea
+205,Anjuna_Ps,2023,Theft (Auto Theft),17-07-2023,Arpora,Arpora,4,"(15.5556, 73.7526)",Medium,ResidentialArea
+206,Anjuna_Ps,2023,Theft (Auto Theft),26-10-2023,Near Ajoba Furniture Siolim,Siolim,5,"(15.6325, 73.7799)",Low,MarketZone
+207,Anjuna_Ps,2023,Theft (House Theft),25-04-2023,Arpora,Arpora,5,"(15.5557, 73.7527)",Medium,ResidentialArea
+208,Anjuna_Ps,2023,Theft (House Theft),13-10-2023,Baga Arpora,Arpora,3,"(15.5568, 73.7528)",High,Beachside
+209,Anjuna_Ps,2023,Theft (House Theft),22-12-2023,Marinha Doradho Arpora,Arpora,4,"(15.5570, 73.7529)",Medium,ResidentialArea
+210,Anjuna_Ps,2023,Theft (HBT Day),07-06-2023,At Room No.7 Goaround Cozy Homes Anjuna,Anjuna,2,"(15.5936, 73.7463)",Medium,InHouse
+211,Anjuna_Ps,2023,Theft (HBT Day),21-10-2023,1084/A Madhlem Bhat Siolim,Siolim,4,"(15.6330, 73.7800)",Low,InHouse
+212,Anjuna_Ps,2023,Theft (HBT Night),10-03-2023,Poonam Guest House Anjuna,Anjuna,2,"(15.5938, 73.7464)",High,InHouse
+213,Anjuna_Ps,2023,Theft (HBT Night),17-06-2023,Siolim,Siolim,3,"(15.6335, 73.7801)",Medium,localArea
+214,Anjuna_Ps,2023,Theft (HBT Night),21-07-2023,59 Bondir Wada Chapora,Chapora,4,"(15.5918, 73.7665)",Medium,InHouse
+215,Anjuna_Ps,2023,Theft (HBT Night),03-10-2023,Room No.103 Yoyo Goa Retreat Hotel Vagator,Vagator,2,"(15.5955, 73.7465)",High,InHouse
+216,Anjuna_Ps,2023,Theft (HBT Night),17-11-2023,1393 Kumar Wado Anjuna,Anjuna,3,"(15.5940, 73.7466)",Medium,InHouse
+217,Anjuna_Ps,2023,Theft (HBT Night),18-11-2023,Restaurant Bawri Assagao,Assagao,3,"(15.5917, 73.7666)",High,ClubArea
+218,Anjuna_Ps,2023,Assault (Hurt),22-02-2023,Guddem Siolim,Siolim,4,"(15.6340, 73.7802)",Medium,ResidentialArea
+219,Anjuna_Ps,2023,Assault (Hurt),06-03-2023,Spazio Resort Anjuna,Anjuna,2,"(15.5943, 73.7467)",High,InHouse
+220,Anjuna_Ps,2023,Assault (Hurt),18-03-2023,Green Square Society Bamon Vaddo Siolim,Siolim,3,"(15.6345, 73.7803)",Medium,ResidentialArea
+221,Anjuna_Ps,2023,Assault (Hurt),11-04-2023,Muddi Vaddo Anjuna,Anjuna,3,"(15.5945, 73.7468)",Medium,localArea
+222,Anjuna_Ps,2023,Assault (Hurt),11-04-2023,Muddi Waddo Anjuna,Anjuna,3,"(15.5873, 73.7436)",Medium,localArea
+223,Anjuna_Ps,2023,Assault (Hurt),09-05-2023,Simwaddo Arpora,Arpora,2,"(15.5630, 73.7669)",Medium,localArea
+224,Anjuna_Ps,2023,Assault (Hurt),13-05-2023,Aframent Waddi Siolim,Siolim,2,"(15.6150, 73.7700)",Low,localArea
+225,Anjuna_Ps,2023,Assault (Hurt),18-05-2023,Near Olive Rest Vagator,Vagator,3,"(15.5920, 73.7410)",Medium,ClubArea
+226,Anjuna_Ps,2023,Assault (Hurt),23-05-2023,Mdhlembhat Siolim,Siolim,4,"(15.6100, 73.7700)",Low,ResidentialArea
+227,Anjuna_Ps,2023,Assault (Hurt),13-06-2023,Near Doo Robs Rest Vagator,Vagator,3,"(15.5925, 73.7405)",Medium,ClubArea
+228,Anjuna_Ps,2023,Assault (Hurt),13-08-2023,Shree Dev Sakhleshawar Munag Vaddo Assagao,Assagao,3,"(15.5838, 73.7454)",Medium,ResidentialArea
+229,Anjuna_Ps,2023,Assault (Hurt),06-10-2023,Hill Top Assagao,Assagao,2,"(15.5912, 73.7403)",High,ResidentialArea
+230,Anjuna_Ps,2023,Assault (Hurt),29-10-2023,Oxel Siolim,Siolim,5,"(15.6123, 73.7705)",Low,localArea
+231,Anjuna_Ps,2023,Assault (Hurt),29-10-2023,Oxel Siolim,Siolim,5,"(15.5943, 73.7401)",High,localArea
+232,Anjuna_Ps,2023,Assault (Hurt),02-11-2023,Ozran Vagator,Vagator,1,"(15.5931, 73.7408)",High,Beachside
+233,Anjuna_Ps,2023,Assault (Hurt),27-11-2023,239/4B Oxel Siolim,Siolim,5,"(15.6123, 73.7705)",Medium,InHouse
+234,Anjuna_Ps,2023,Assault (Hurt),07-12-2023,Sorranto Waddo Anjuna,Anjuna,2,"(15.5867, 73.7432)",Medium,ResidentialArea
+235,Anjuna_Ps,2023,Assault (Hurt),15-12-2023,Near Don Rob Club Vagator,Vagator,3,"(15.5931, 73.7408)",Medium,ClubArea
+236,Anjuna_Ps,2023,Assault (Hurt),21-12-2023,Near Sam Home Stay Siolim,Siolim,4,"(15.6171, 73.7689)",Low,InHouse
+237,Anjuna_Ps,2023,Assault (Hurt),30-12-2023,HNo.611/1 Vagator,Vagator,5,"(15.5902, 73.7398)",Medium,InHouse
+238,Anjuna_Ps,2023,Drug Related (NDPS),31-01-2023,Siolim,Siolim,5,"(15.6123, 73.7705)",Low,localArea
+239,Anjuna_Ps,2023,Drug Related (NDPS),08-02-2023,Onachem Bhat Anjuna,Anjuna,2,"(15.5890, 73.7425)",Medium,ResidentialArea
+240,Anjuna_Ps,2023,Drug Related (NDPS),13-02-2023,Bamon Vaddo Siolim,Siolim,3,"(15.6135, 73.7699)",Low,ResidentialArea
+241,Anjuna_Ps,2023,Drug Related (NDPS),19-02-2023,Vagator Beach,Vagator,4,"(15.5939, 73.7400)",High,Beachside
+242,Anjuna_Ps,2023,Drug Related (NDPS),20-02-2023,Aorchid Aquarium Chaudi Marna Siolim,Siolim,4,"(15.6164, 73.7675)",Low,MarketZone
+243,Anjuna_Ps,2023,Drug Related (NDPS),20-03-2023,Near Splesh Down Water Park Anjuna,Anjuna,4,"(15.5881, 73.7421)",High,ClubArea
+244,Anjuna_Ps,2023,Drug Related (NDPS),01-04-2023,Bus Stop near St Joseph School Arpora,Arpora,1,"(15.5635, 73.7623)",High,OnRoad
+245,Anjuna_Ps,2023,Drug Related (NDPS),04-05-2023,Near Cemetery Huddo Beach Siolim,Siolim,1,"(15.6190, 73.7655)",Low,Beachside
+246,Anjuna_Ps,2023,Drug Related (NDPS),10-06-2023,Near Chapel Baga Arpora,Arpora,2,"(15.5621, 73.7632)",High,Beachside
+247,Anjuna_Ps,2023,Drug Related (NDPS),29-07-2023,Baga End Baga Arpora,Arpora,5,"(15.5594, 73.7661)",High,Beachside
+248,Anjuna_Ps,2023,Drug Related (NDPS),10-08-2023,Near Chapel Porta Vaddo Siolim,Siolim,2,"(15.6175, 73.7682)",Low,ResidentialArea
+249,Anjuna_Ps,2023,Drug Related (NDPS),26-10-2023,T Junction Bammon Vaddo Siolim,Siolim,5,"(15.6142, 73.7691)",Low,OnRoad
+250,Anjuna_Ps,2023,Drug Related (NDPS),15-11-2023,Near XOXO Bar & Rest Anjuna,Anjuna,3,"(15.5860, 73.7430)",Medium,ClubArea
+251,Anjuna_Ps,2023,Drug Related (NDPS),25-11-2023,Near Cross Sonarwado Assagao,Assagao,4,"(15.5832, 73.7460)",Medium,ResidentialArea
+252,Anjuna_Ps,2023,Drug Related (NDPS),19-12-2023,Near Fountain View Anjuna,Anjuna,3,"(15.5855, 73.7435)",Medium,Beachside
+253,Anjuna_Ps,2023,Drug Related (NDPS),24-12-2023,Near Splashdown Water Park Anjuna,Anjuna,4,"(15.5881, 73.7421)",High,ClubArea
+254,Anjuna_Ps,2024,Theft (Auto Theft),09-01-2024,Near Vegas Supermarket Arpora,Arpora,2,"(15.5645, 73.7629)",High,MarketZone
+255,Anjuna_Ps,2024,Theft (Auto Theft),04-04-2024,630/1 Small Vagator,Vagator,1,"(15.5938, 73.7402)",Medium,Beachside
+256,Anjuna_Ps,2024,Theft (Auto Theft),31-05-2024,Porta Vaddo Siolim,Siolim,5,"(15.6175, 73.7682)",Low,ResidentialArea
+257,Anjuna_Ps,2024,Theft (Auto Theft),29-06-2024,Oxel Siolim,Siolim,5,"(15.6123, 73.7705)",Low,ResidentialArea
+258,Anjuna_Ps,2024,Theft (Auto Theft),31-07-2024,Bammon Vaddo Siolim,Siolim,5,"(15.6142, 73.7691)",Low,ResidentialArea
+259,Anjuna_Ps,2024,Theft (Auto Theft),20-08-2024,Morajkar Waddo Vagator,Vagator,3,"(15.5926, 73.7412)",Medium,Beachside
+260,Anjuna_Ps,2024,Theft (House Theft),02-01-2024,Amada Villa Assagao,Assagao,1,"(15.5838, 73.7454)",Medium,InHouse
+261,Anjuna_Ps,2024,Theft (House Theft),07-01-2024,Room No.14 of Anjuna Beach Resort Anjuna,Anjuna,1,"(15.5890, 73.7425)",Medium,InHouse
+262,Anjuna_Ps,2024,Theft (House Theft),22-03-2024,Sesh Bar & Rest Anjuna,Anjuna,4,"(15.5865, 73.7430)",High,ClubArea
+263,Anjuna_Ps,2024,Theft (House Theft),18-06-2024,Thomsuli Villa Marna Siolim,Siolim,3,"(15.6164, 73.7675)",Low,InHouse
+264,Anjuna_Ps,2024,Theft (House Theft),14-08-2024,566 Badem Assagao,Assagao,2,"(15.5812, 73.7461)",Medium,ResidentialArea
+265,Anjuna_Ps,2024,Theft (House Theft),17-08-2024,Origin Resort Arpora,Arpora,3,"(15.5632, 73.7621)",High,InHouse
+266,Anjuna_Ps,2024,Theft (House Theft),03-09-2024,Ikigai Boutique Hotel Assagao,Assagao,1,"(15.5820, 73.7448)",Medium,InHouse
+267,Anjuna_Ps,2024,Theft (House Theft),08-09-2024,671 Rai Siolim,Siolim,2,"(15.6170, 73.7678)",Low,ResidentialArea
+268,Anjuna_Ps,2024,Theft (House Theft),21-09-2024,HDFC ATM Arpora,Arpora,3,"(15.5635, 73.7623)",High,MarketZone
+269,Anjuna_Ps,2024,Theft (House Theft),01-11-2024,418 Sim Waddo Arpora,Arpora,1,"(15.5628, 73.7631)",Medium,ResidentialArea
+270,Anjuna_Ps,2024,Theft (House Theft),05-11-2024,Samas Rest Vagator,Vagator,1,"(15.5934, 73.7404)",Medium,ClubArea
+271,Anjuna_Ps,2024,Theft (House Theft),08-11-2024,Villa 05-EL Ricious Appt Assagao,Assagao,2,"(15.5834, 73.7450)",Medium,InHouse
+272,Anjuna_Ps,2024,Theft (House Theft),07-12-2024,Umravi Villa Anjuna,Anjuna,1,"(15.5869, 73.7433)",Medium,InHouse
+273,Anjuna_Ps,2024,Theft (HBT Day),31-01-2024,Tarchibhat Siolim,Siolim,5,"(15.6160, 73.7680)",Low,ResidentialArea
+274,Anjuna_Ps,2024,Theft (HBT Day),23-11-2024,1818 Gaunwadi Anjuna,Anjuna,4,"(15.5875, 73.7438)",Medium,InHouse
+275,Anjuna_Ps,2024,Theft (HBT Night),27-03-2024,A3 Cotempo Villas Marna Siolim,Siolim,4,"(15.6158, 73.7672)",Low,InHouse
+276,Anjuna_Ps,2024,Theft (HBT Night),10-04-2024,287 Dabholwada Chapora,Chapora,2,"(15.6016, 73.7415)",High,InHouse
+277,Anjuna_Ps,2024,Theft (HBT Night),20-06-2024,Villa No.B-1 Amariz Rest Vagator,Vagator,3,"(15.5930, 73.7406)",Medium,InHouse
+278,Anjuna_Ps,2024,Theft (HBT Night),21-06-2024,YOYO Retreat Vagator,Vagator,3,"(15.5928, 73.7403)",Medium,InHouse
+279,Anjuna_Ps,2024,Theft (HBT Night),29-06-2024,Hotel Amani Vagator,Vagator,5,"(15.5925, 73.7401)",Medium,InHouse
+280,Anjuna_Ps,2024,Theft (HBT Night),04-08-2024,St. Joseph High School Arpora,Arpora,1,"(15.5630, 73.7625)",High,NearCollege
+281,Anjuna_Ps,2024,Assault (Hurt),03-01-2024,Nagoa,Nagoa,1,"(15.5568, 73.7795)",Low,ResidentialArea
+282,Anjuna_Ps,2024,Assault (Hurt),09-02-2024,Igrezwaddo Marna Siolim,Siolim,2,"(15.6169, 73.7670)",Low,ResidentialArea
+283,Anjuna_Ps,2024,Assault (Hurt),13-03-2024,Sonarkhend Assagao,Assagao,2,"(15.5841, 73.7467)",Medium,ResidentialArea
+284,Anjuna_Ps,2024,Assault (Hurt),26-03-2024,Near 6 Pack Rest Anjuna,Anjuna,4,"(15.5870, 73.7432)",Medium,ClubArea
+285,Anjuna_Ps,2024,Assault (Hurt),07-04-2024,Near Domino's Shop Siolim,Siolim,2,"(15.6128, 73.7703)",Medium,MarketZone
+286,Anjuna_Ps,2024,Assault (Hurt),11-04-2024,Guddem Siolim,Siolim,2,"(15.6165, 73.7683)",Low,InHouse
+287,Anjuna_Ps,2024,Assault (Hurt),15-05-2024,Near Thalasa Rest Siolim,Siolim,3,"(15.6147, 73.7695)",High,ClubArea
+288,Anjuna_Ps,2024,Assault (Hurt),17-05-2024,EL Patron Rest Wadi Siolim,Siolim,3,"(15.6139, 73.7690)",Medium,ClubArea
+289,Anjuna_Ps,2024,Assault (Hurt),02-06-2024,254 Ghorbhat Vaddo Arpora,Arpora,1,"(15.5647, 73.7630)",Medium,InHouse
+290,Anjuna_Ps,2024,Assault (Hurt),12-06-2024,373 Sonarkhend Assagao,Assagao,2,"(15.5843, 73.7465)",Medium,InHouse
+291,Anjuna_Ps,2024,Assault (Hurt),07-07-2024,1069 Aim Vaddo Anjuna,Anjuna,1,"(15.5868, 73.7437)",Medium,ResidentialArea
+292,Anjuna_Ps,2024,Assault (Hurt),10-07-2024,168/1 Sim Vaddo Arpora,Arpora,2,"(15.5629, 73.7628)",Medium,InHouse
+293,Anjuna_Ps,2024,Assault (Hurt),30-07-2024,Near Joe Philip Height Residency Arpora,Arpora,5,"(15.5638, 73.7625)",Medium,ResidentialArea
+294,Anjuna_Ps,2024,Assault (Hurt),20-08-2024,Rumba Club Assagao,Assagao,3,"(15.5835, 73.7458)",Medium,ClubArea
+295,Anjuna_Ps,2024,Assault (Hurt),22-09-2024,Dando Siolim,Siolim,4,"(15.6152, 73.7679)",Low,LocalArea
+296,Anjuna_Ps,2024,Assault (Hurt),01-10-2024,Thalassa Siolim,Siolim,1,"(15.6147, 73.7695)",High,ClubArea
+297,Anjuna_Ps,2024,Assault (Hurt),06-12-2024,Near Baga Creek Baga Arpora,Arpora,1,"(15.5586, 73.7675)",High,Beachside
+298,Anjuna_Ps,2024,Drug Related (NDPS),25-01-2024,Near Football Ground Siolim,Siolim,4,"(15.6173, 73.7676)",Medium,OnRoad
+299,Anjuna_Ps,2024,Drug Related (NDPS),25-01-2024,Baga End Baga Arpora,Arpora,4,"(15.5594, 73.7661)",High,Beachside
+300,Anjuna_Ps,2024,Drug Related (NDPS),30-01-2024,GTDC Parking Anjuna,Anjuna,5,"(15.5882, 73.7427)",High,OnRoad
+301,Anjuna_Ps,2024,Drug Related (NDPS),01-02-2024,Near Baga Creek Baga Arpora,Arpora,1,"(15.5586, 73.7675)",High,Beachside
+302,Anjuna_Ps,2024,Drug Related (NDPS),15-03-2024,La Viola Villas Zor Waddo Anjuna,Anjuna,3,"(15.5893, 73.7423)",Medium,InHouse
+303,Anjuna_Ps,2024,Drug Related (NDPS),06-04-2024,Splashdown Water Park Anjuna,Anjuna,1,"(15.5881, 73.7421)",High,ClubArea
+304,Anjuna_Ps,2024,Drug Related (NDPS),19-04-2024,Near Poonam Guest House Anjuna,Anjuna,3,"(15.5867, 73.7431)",Medium,InHouse
+305,Anjuna_Ps,2024,Drug Related (NDPS),12-05-2024,Near Monkey Bar Gumal Vaddo Anjuna,Anjuna,2,"(15.5872, 73.7435)",Medium,ClubArea
+306,Anjuna_Ps,2024,Drug Related (NDPS),08-06-2024,Near Chapel Sonarkhend Assagao,Assagao,2,"(15.5841, 73.7467)",Medium,LocalArea
+307,Anjuna_Ps,2024,Drug Related (NDPS),08-07-2024,Near Bank of Baroda Anjuna,Anjuna,2,"(15.5863, 73.7436)",Medium,MarketZone
+308,Anjuna_Ps,2024,Drug Related (NDPS),08-07-2024,Near XOXO Bar & Rest Anjuna,Anjuna,4,"(15.5860, 73.7430)",Medium,ClubArea
+309,Anjuna_Ps,2024,Drug Related (NDPS),23-08-2024,Near Chapel Dias Vaddo Nagoa,Nagoa,4,"(15.5569, 73.7796)",Low,LocalArea
+310,Anjuna_Ps,2024,Drug Related (NDPS),25-09-2024,Near St. Michael Church Anjuna,Anjuna,3,"(15.5865, 73.7442)",Medium,LocalArea
+311,Anjuna_Ps,2024,Drug Related (NDPS),16-10-2024,Near Siolim Football Ground Siolim,Siolim,4,"(15.6173, 73.7676)",Medium,OnRoad
+312,Anjuna_Ps,2024,Drug Related (NDPS),24-10-2024,Madhlem Bhat Siolim,Siolim,4,"(15.6162, 73.7674)",Low,LocalArea
+313,Anjuna_Ps,2024,Drug Related (NDPS),25-10-2024,Near Village Panchayat Hall Vagator,Vagator,1,"(15.5929, 73.7405)",Medium,LocalArea
+314,Anjuna_Ps,2024,Drug Related (NDPS),05-11-2024,Baga Creek,Baga,2,"(15.5586, 73.7675)",High,Beachside
+315,Mapusa_Ps,2019,Theft (Auto Theft),12-07-2018,At Khorlim Mapusa Bardez Goa (MMC),Mapusa(MMC),1,"(15.5950, 73.8113)",High,MarketZone
+316,Mapusa_Ps,2019,Theft (Auto Theft),01-08-2019,"At in front of Palmar Green Apartment, Abbaswado, Canca Bardez Goa (Canca Verla,Canca)",Canca Verla,3,"(15.5765, 73.7982)",Medium,LocalArea
+317,Mapusa_Ps,2019,Theft (Auto Theft),20-12-2018,At opposite Pednekar Jeweller Municipal Market Mapusa Bardez Goa (MMC),Mapusa(MMC),3,"(15.5973, 73.8120)",High,MarketZone
+318,Mapusa_Ps,2019,Theft (Auto Theft),20-01-2019,At in front of Braganza Hotel Mapusa Bardez Goa (MMC),Mapusa(MMC),3,"(15.5938, 73.8105)",High,MarketZone
+319,Mapusa_Ps,2019,Theft (Auto Theft),15-02-2019,"At near municipal Fish Market, Mapusa Bardez Goa (MMC)",Mapusa(MMC),4,"(15.5956, 73.8118)",High,MarketZone
+320,Mapusa_Ps,2019,Theft (Auto Theft),22-02-2019,At in front of Remy Photo Studio Mapusa Bardez Goa (MMC),Mapusa(MMC),1,"(15.5967, 73.8109)",High,MarketZone
+321,Mapusa_Ps,2019,Theft (Auto Theft),02-02-2019,"At near Carvalho Petrol Pump, Mapusa Bardez Goa (MMC)",Mapusa(MMC),1,"(15.5971, 73.8103)",High,MarketZone
+322,Mapusa_Ps,2019,Theft (Auto Theft),01-09-2019,At in front of Pednekar Jewellers Municipal Market Mapusa Bardez Goa (MMC),Mapusa(MMC),1,"(15.5973, 73.8120)",High,MarketZone
+323,Mapusa_Ps,2019,Theft (Auto Theft),04-01-2019,"At in front of Ravalnath General Store, Freitas Wado, Verla,Canca Bardez Goa (Residential Area)","Verla,Canca",5,"(15.5762, 73.7980)",Medium,LocalArea
+324,Mapusa_Ps,2019,Theft (Auto Theft),30-03-2019,At Voilowado Madel Thivim Bardez Goa (Thivim),Thivim,4,"(15.6271, 73.8294)",Low,LocalArea
+325,Mapusa_Ps,2019,Theft (Auto Theft),26-10-2019,At Nr Mapusa Clinic Mapusa Bardez Goa (MMC),Mapusa(MMC),1,"(15.5943, 73.8117)",High,Beachside
+326,Mapusa_Ps,2019,Theft (Auto Theft),03-02-2019,At Nr Ram Temple Teen Mad Sodiem Siolim Bardez Goa (Siolim),Siolim,4,"(15.6157, 73.7678)",Medium,ReligiousPlace
+327,Mapusa_Ps,2019,Theft (Auto Theft),27-07-2019,At opposite Vijay Fashion Tailor Mapusa Bardez Goa (MMC),Mapusa(MMC),3,"(15.5965, 73.8109)",High,ParkingLot
+328,Mapusa_Ps,2019,Theft (Auto Theft),20-07-2019,"At near Main entrance gate of premises of Glem Mark Pharmaceutical IDC, Colvale Bardez Goa (Industrial Area)",Colvale,4,"(15.6568, 73.8302)",Medium,Beachside
+329,Mapusa_Ps,2019,Theft (Auto Theft),28-09-2019,"At in front of house of Vishwas Arlekar, Freitas Wado, Verla,Canca Canca Bardez Goa (Residential Area)","Verla,Canca",2,"(15.5762, 73.7980)",Low,ResidentialArea
+330,Mapusa_Ps,2019,Theft (Auto Theft),10-03-2019,"At premises of ZLS building, Housing board Colony, Colvale Bardez Goa (Colvale)",Colvale,3,"(15.6581, 73.8321)",Medium,LocalArea
+331,Mapusa_Ps,2019,Theft (Auto Theft),20-11-2019,"At Survemwado, Guirim Bardez Goa (Guirim)",Guirim,3,"(15.5742, 73.7934)",Low,ResidentialArea
+332,Mapusa_Ps,2019,Theft (Auto Theft),17-12-2019,"At near Green Park Hotel Bus Stop, Guirim Mapusa Bardez Goa (MMC)",Mapusa(MMC),5,"(15.5739, 73.7927)",Medium,OnRoad
+333,Mapusa_Ps,2019,Theft (Auto Theft),29-12-2019,"At Vanciowado, Guirim Bardez Goa (Guirim)",Guirim,1,"(15.5728, 73.7921)",Low,ResidentialArea
+334,Mapusa_Ps,2019,Theft (Auto Theft),01-09-2018,At H No 73 Ponxem Damadem Madel Thivim Bardez Goa (Thivim),Thivim,1,"(15.6280, 73.8289)",Low,InHouse
+335,Mapusa_Ps,2019,Theft (House Theft),02-03-2018,At in Nursery Hut opposite Chapel Calangute Road after Bodgini Mapusa Bardez Goa (MMC),Mapusa(MMC),3,"(15.5951, 73.8122)",Medium,ResidentialArea
+336,Mapusa_Ps,2019,Theft (House Theft),16-03-2019,At Nr Navtara Hotel Mapusa Bardez Goa (MMC),Mapusa(MMC),4,"(15.5947, 73.8119)",High,MarketZone
+337,Mapusa_Ps,2019,Theft (House Theft),25-04-2019,At Shop styled as “Abhay Mobile & Electronics” shop No A-2/27 Nr Vegetable Municipal Market Mapusa Bardez Goa (MMC),Mapusa(MMC),4,"(15.5960, 73.8125)",High,MarketZone
+338,Mapusa_Ps,2019,Theft (House Theft),24-05-2019,"At Mapusa Market, Mapusa Bardez Goa (MMC)",Mapusa(MMC),3,"(15.5973, 73.8120)",High,MarketZone
+339,Mapusa_Ps,2019,Theft (House Theft),21-07-2019,"At shop styled as “Bharat Key Maker” shop No 101, Nr Carvalho Petrol Pump Mapusa Bardez Goa (MMC)",Mapusa(MMC),4,"(15.5971, 73.8103)",High,MarketZone
+340,Mapusa_Ps,2019,Theft (House Theft),24-09-2019,"At premises of ATM Counter, GP Parshik Bank Kavlekar Tower, Xim Khorlim Mapusa Bardez Goa (MMC)",Mapusa(MMC),2,"(15.5954, 73.8111)",High,MarketZone
+341,Mapusa_Ps,2019,Theft (House Theft),11-01-2019,"At ATM Counter HDFC Bank premises, Colvale Bardez Goa (Bank Area)",Colvale,5,"(15.6558, 73.8309)",Medium,MarketZone
+342,Mapusa_Ps,2019,Theft (House Theft),31-12-2019,"At H No 202B, Xelpem Cuchelim Mapusa Bardez Goa (MMC)",Mapusa(MMC),1,"(15.5980, 73.8102)",Low,InHouse
+343,Mapusa_Ps,2019,Theft (House Theft),06-03-2019,At Shree Sai Bhakti Mandir Sainagar Aldona Bardez Goa (Aldona),Aldona,1,"(15.6337, 73.8773)",Medium,ReligiousPlace
+344,Mapusa_Ps,2019,Theft (House Theft),02-08-2019,At H No 98/B/6 St.Anthonywado Guirim Bardez Goa (Guirim),Guirim,2,"(15.5733, 73.7929)",Low,LocalArea
+345,Mapusa_Ps,2019,Theft (Chain Snatching),14-02-2019,At Camarkhajan Mapusa Bardez Goa (MMC),Mapusa(MMC),1,"(15.5963, 73.8115)",Medium,InHouse
+346,Mapusa_Ps,2019,Theft (Chain Snatching),03-06-2019,At Atafonde Moira Bardez Goa (Moira),Moira,3,"(15.6230, 73.8550)",Low,ResidentialArea
+347,Mapusa_Ps,2019,Theft (HBT Night),20-03-2019,"At shop styled as “D.K. Wine Store” H.No 303-A, Verla,Canca Canca Bardez Goa (Wine Store)",Canca Verla,1,"(15.5760, 73.7981)",Medium,MarketZone
+348,Mapusa_Ps,2019,Theft (HBT Night),06-10-2019,"At H No 124/2, Rodrigues House Gaunsawado Sodiem Siolim Bardez Goa (Siolim)",Siolim,1,"(15.6165, 73.7708)",Low,InHouse
+349,Mapusa_Ps,2019,Theft (HBT Night),07-06-2019,"At H. No. 243, Primeriwado, Corjuvem, Aldona Bardez Goa (Aldona)",Aldona,1,"(15.6215, 73.8752)",Low,LocalArea
+350,Mapusa_Ps,2019,Theft (HBT Night),20-10-2019,"At shop No. 137, styled as M/S Gajanan Dhavjakar, Municipal Market Mapusa Bardez Goa (MMC)",Mapusa(MMC),3,"(15.5973, 73.8120)",High,MarketZone
+351,Mapusa_Ps,2019,Theft (HBT Night),16-11-2019,"At shop No. 136, styled as Ayurved, Municipal Market Mapusa Bardez Goa (MMC)",Mapusa(MMC),3,"(15.5973, 73.8120)",High,MarketZone
+352,Mapusa_Ps,2019,Theft (HBT Night),01-05-2019,At H No 131/1 Housing board Colvale Mushirwado Bardez Goa (Colvale),Colvale,1,"(15.6568, 73.8302)",Medium,InHouse
+353,Mapusa_Ps,2019,Theft (HBT Night),14-01-2019,"At H. No. 1468/60, Faj Housing colony Madel Thivim Bardez Goa (Thivim)",Thivim,2,"(15.6271, 73.8294)",Medium,InHouse
+354,Mapusa_Ps,2019,Theft (HBT Night),17-01-2019,"At H.No. 416/6, Pilimbiwado, Sodiem Siolim Bardez Goa (Siolim)",Siolim,3,"(15.6157, 73.7678)",Low,InHouse
+355,Mapusa_Ps,2019,Theft (HBT Night),22-01-2019,"At H No 63/L, Jaywanti Smruti Vidhyanagar Khorlim Mapusa Bardez Goa (MMC)",Mapusa(MMC),4,"(15.5950, 73.8113)",Medium,InHouse
+356,Mapusa_Ps,2019,Theft (HBT Night),02-12-2019,At shop styled as Bhavaji Mega Wine Shop No 5 Asma Arcade Karaswada Mapusa Bardez Goa (MMC),Mapusa(MMC),1,"(15.5984, 73.8130)",Medium,MarketZone
+357,Mapusa_Ps,2019,Theft (HBT Night),21-02-2019,At near medical store styled as Ritvika Medical Store shop No 3 Asma Arcade Karaswada Mapusa Bardez Goa (MMC),Mapusa(MMC),3,"(15.5984, 73.8130)",Medium,MarketZone
+358,Mapusa_Ps,2019,Theft (HBT Night),03-05-2019,"At Wine Store styled as “Raju Wine Store” near Malita Bar, Ghotnichowal, Colvale Bardez Goa (Colvale)",Colvale,1,"(15.6558, 73.8309)",Medium,MarketZone
+359,Mapusa_Ps,2019,Theft (HBT Night),16-03-2019,"At H. No. 942/2, Dullatwado, Cansa Thivim, Bardez Goa (Thivim)",Thivim,3,"(15.6280, 73.8289)",Low,InHouse
+360,Mapusa_Ps,2019,Assault (Hurt),25-03-2019,At Municipal Garden Dattawadi Mapusa Bardez Goa (MMC),Mapusa(MMC),4,"(15.5954, 73.8111)",High,ResidentialArea
+361,Mapusa_Ps,2019,Assault (Hurt),16-04-2019,"At H.No. 318, Gorjuvem, Khorjuvem, Aldona Bardez Goa (Aldona)",Aldona,3,"(15.6337, 73.8773)",Low,InHouse
+362,Mapusa_Ps,2019,Assault (Hurt),22-04-2019,"At near H. No. 116, Karaswada, Mapusa Bardez Goa (MMC)",Mapusa(MMC),4,"(15.5978, 73.8132)",Medium,InHouse
+363,Mapusa_Ps,2019,Assault (Hurt),31-05-2019,At KTC Bus Stand Mapusa Bardez Goa (MMC),Mapusa(MMC),5,"(15.5963, 73.8120)",High,OnRoad
+364,Mapusa_Ps,2019,Assault (Hurt),25-06-2019,"At near Prudential Paradise Building, Peddem Mapusa Bardez Goa (MMC)",Mapusa(MMC),4,"(15.5971, 73.8118)",Medium,LocalArea
+365,Mapusa_Ps,2019,Assault (Hurt),28-08-2019,"At H.No. 730, Sataporio, Moira Bardez Goa (Moira)",Moira,4,"(15.6235, 73.8546)",Low,InHouse
+366,Mapusa_Ps,2019,Assault (Hurt),10-02-2019,At Nr Shantadurga Temple Moitem Bardez Goa (Moitem),Moitem,2,"(15.6342, 73.8470)",Medium,ReligiousPlace
+367,Mapusa_Ps,2019,Assault (Hurt),10-12-2019,At Nr St. Clara High School Assonora Bardez Goa (Assonora),Assonora,2,"(15.6602, 73.8437)",Medium,NearCollege
+368,Mapusa_Ps,2019,Assault (Hurt),16-10-2019,"At Ganeshnagar, Assonora Bardez Goa (Assonora)",Assonora,3,"(15.6613, 73.8462)",Medium,LocalArea
+369,Mapusa_Ps,2019,Assault (Hurt),02-09-2019,"At in front of Rajan Bar, Tar, Bastora Bardez Goa (Bastora)",Bastora,1,"(15.5921, 73.8076)",Medium,MarketZone
+370,Mapusa_Ps,2019,Assault (Hurt),17-06-2019,"At premises of H. No. 64/A/S, St. Rockwado, Colvale, Bardez Goa (Colvale)",Colvale,3,"(15.6552, 73.8305)",Low,InHouse
+371,Mapusa_Ps,2019,Assault (Hurt),09-12-2019,At Atafonde Moira Bardez Goa (Moira),Moira,2,"(15.6230, 73.8550)",Low,LocalArea
+372,Mapusa_Ps,2019,Assault (Hurt),11-06-2019,"At in front of Heartbeat Bar & Restaurant Peddem, Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5965, 73.8123)",High,MarketZone
+373,Mapusa_Ps,2019,Assault (Hurt),25-01-2020,"At in front of Heartbeat Bar & Restaurant Peddem, Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5965, 73.8123)",High,ReligiousPlace
+374,Mapusa_Ps,2019,Assault (Hurt),28-01-2020,At Nr Chapel Cansa Thivim Bardez Goa,Thivim,4,"(15.6290, 73.8298)",Low,ReligiousPlace
+375,Mapusa_Ps,2019,Assault (Hurt),02-02-2020,"At near Ganesh Temple, Mishirwado, Colvale Bardez Goa",Colvale,1,"(15.6562, 73.8312)",Low,ResidentialArea
+376,Mapusa_Ps,2019,Assault (Hurt),02-08-2020,At Khalapwada Canca Bardez Goa,Canca Verla,1,"(15.5770, 73.7987)",Low,ResidentialArea
+377,Mapusa_Ps,2019,Assault (Hurt),13-04-2020,At Conference Hall Village Panchayat Nachinola Bardez Goa,Nachinola,2,"(15.6345, 73.8740)",Low,ResidentialArea
+378,Mapusa_Ps,2019,Assault (Hurt),21-04-2020,"At Ramtalem Naikawado, Aldona Bardez Goa",Aldona,3,"(15.6257, 73.8768)",Low,InHouse
+379,Mapusa_Ps,2019,Assault (Hurt),24-07-2020,"At in front of H. No. 73/1, Jackniwado, Parra Bardez Goa",Parra,4,"(15.5931, 73.7885)",Low,MarketZone
+380,Mapusa_Ps,2019,Assault (Hurt),29-07-2020,"At in front of Super Quality Bazar premises, Khorlim Mapusa Bardez Goa",Mapusa(MMC),5,"(15.5970, 73.8127)",Medium,ResidentialArea
+381,Mapusa_Ps,2019,Assault (Hurt),27-08-2020,"At in front of Goa Horticulture Department Stall, Canca Bardez Goa",Canca Verla,4,"(15.5775, 73.7992)",Medium,MarketZone
+382,Mapusa_Ps,2019,Drug Related (NDPS),10-02-2020,"At near Laxmi Bar, Silvawado, Parra Bardez Goa",Parra,2,"(15.5928, 73.7890)",Medium,ResidentialArea
+383,Mapusa_Ps,2019,Drug Related (NDPS),13-10-2020,"At Central Jail Colvale, Colvale Bardez Goa",Colvale,2,"(15.6537, 73.8335)",High,ReligiousPlace
+384,Mapusa_Ps,2019,Drug Related (NDPS),17-10-2020,"At near Church, Parra Bardez Goa",Parra,3,"(15.5915, 73.7900)",Medium,ResidentialArea
+385,Mapusa_Ps,2019,Drug Related (NDPS),18-10-2020,At Frisking Point Central Jail Colvale Bardez Goa,Colvale,3,"(15.6539, 73.8337)",High,OnRoad
+386,Mapusa_Ps,2019,Drug Related (NDPS),22-10-2020,"At Four Road Junction Karaswada, Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5982, 73.8145)",High,ResidentialArea
+387,Mapusa_Ps,2019,Drug Related (NDPS),11-04-2020,At Convict Undertrial NDPS Block IV Blocks Central Jail Colvale,Colvale,2,"(15.6537, 73.8335)",High,InHouse
+388,Mapusa_Ps,2019,Drug Related (NDPS),20-11-2020,"At in front of H. No. 4/141, Acoi Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5969, 73.8119)",Medium,MarketZone
+389,Mapusa_Ps,2020,Theft (Auto Theft),12-03-2020,"At Nr Keni Wine, Taliawada Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5975, 73.8123)",Medium,ResidentialArea
+390,Mapusa_Ps,2020,Theft (Auto Theft),12-07-2020,At in front of Tulip Apartment Moira Bardez Goa,Moira,2,"(15.6228, 73.8561)",Low,ResidentialArea
+391,Mapusa_Ps,2020,Theft (Auto Theft),23-12-2020,At Sainagar Aldona Bardez Goa,Aldona,4,"(15.6242, 73.8755)",Low,LocalArea
+392,Mapusa_Ps,2020,Theft (Auto Theft),01-04-2020,At Zilabhat Revora Bardez Goa,Revora,1,"(15.6804, 73.8825)",Low,LocalArea
+393,Mapusa_Ps,2020,Theft (Auto Theft),01-07-2020,At Pellowado Ucassaim Bardez Goa,Ucassaim,1,"(15.6159, 73.8503)",Low,InHouse
+394,Mapusa_Ps,2020,Theft (Auto Theft),19-08-2020,At in front of H. No. D-E-75 Housing Board Ektanagar Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5953, 73.8124)",Medium,ResidentialArea
+395,Mapusa_Ps,2020,Theft (Auto Theft),23-09-2020,At Camarkhajan Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5974, 73.8116)",Medium,MarketZone
+396,Mapusa_Ps,2020,Theft (Auto Theft),30-10-2020,At Nr Suraj Book Stall Mapusa Bardez Goa,Mapusa(MMC),5,"(15.5976, 73.8118)",Medium,MarketZone
+397,Mapusa_Ps,2020,Theft (Auto Theft),25-12-2020,At front of Radhe Medical Store Feira Baxia Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5967, 73.8115)",Medium,MarketZone
+398,Mapusa_Ps,2020,Theft (Auto Theft),26-01-2020,At in front of Hotel Satyaheera Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5969, 73.8117)",Medium,MarketZone
+399,Mapusa_Ps,2020,Theft (Auto Theft),29-01-2020,"At in front of Municipal Market entrance, Mapusa Bardez Goa",Mapusa(MMC),5,"(15.5973, 73.8120)",High,ResidentialArea
+400,Mapusa_Ps,2020,Theft (Auto Theft),22-12-2020,At in front of Asha Bhavan St. Cruz Bastora Bardez Goa,Bastora,4,"(15.5935, 73.8079)",Low,MarketZone
+401,Mapusa_Ps,2020,Theft (Auto Theft),17-01-2020,At Phoenix Plaza Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5960, 73.8112)",High,OnRoad
+402,Mapusa_Ps,2020,Theft (Auto Theft),12-07-2019,"At near Railway Station, Sirsaim, Bardez Goa",Sirsaim,2,"(15.6701, 73.8589)",Medium,MarketZone
+403,Mapusa_Ps,2020,Theft (Auto Theft),13-01-2020,At in front of Indian Overseas Bank Canca Bardez Goa,Canca Verla,2,"(15.5779, 73.7998)",Medium,MarketZone
+404,Mapusa_Ps,2020,Theft (Auto Theft),06-09-2020,At Opposite Union Bank ATM Counter Taliawada Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5972, 73.8126)",Medium,InHouse
+405,Mapusa_Ps,2020,Theft (Auto Theft),15-06-2020,"At in front of H. No. 246, Wadi, Nadora Bardez Goa",Nadora,3,"(15.6893, 73.8921)",Low,LocalArea
+406,Mapusa_Ps,2020,Theft (Auto Theft),23-06-2020,At in front of Boshan Apartment Bodgini Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5971, 73.8129)",Medium,MarketZone
+407,Mapusa_Ps,2020,Theft (Auto Theft),18-07-2020,At ATM Counter of Bank of India St. Anthony Apartment Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5978, 73.8133)",Medium,InHouse
+408,Mapusa_Ps,2020,Theft (House Theft),09-12-2020,"At H. No. 124 Mattawado, Cuchelim Mapusa Bardez Goa",Mapusa(MMC),2,"(15.6005, 73.8192)",Low,Business/Store
+409,Mapusa_Ps,2020,Theft (House Theft),06-01-2020,"At Subraya Chamber, 3rd Floor, Keniwada Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5974, 73.8121)",Medium,MarketZone
+410,Mapusa_Ps,2020,Theft (House Theft),11-01-2020,At 79 Pet Shop Rijim Plaza Building Morod Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5958, 73.8116)",Medium,MarketZone
+411,Mapusa_Ps,2020,Theft (House Theft),27-11-2020,At Restaurant and Bar styled as Hub@ Aldona/La Bonita/Café Dona Aldona Bardez Goa,Aldona,4,"(15.6259, 73.8772)",Medium,InHouse
+412,Mapusa_Ps,2020,Theft (House Theft),12-10-2020,"At property bearing Survey No 362/9, Aldona Bardez Goa",Aldona,2,"(15.6263, 73.8765)",Low,LocalArea
+413,Mapusa_Ps,2020,Theft (House Theft),29-02-2020,"At Auchitwado Verla, Canca, Bardez Goa",Canca Verla,5,"(15.5805, 73.7998)",Low,ReligiousPlace
+414,Mapusa_Ps,2020,Theft (House Theft),04-11-2020,At Bodgeshwar Temple Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5961, 73.8135)",High,MarketZone
+415,Mapusa_Ps,2020,Theft (House Theft),19-04-2020,"At Central Store, Vaiginwado, Nachinola Bardez Goa",Nachinola,3,"(15.6338, 73.8743)",Medium,MarketZone
+416,Mapusa_Ps,2020,Theft (House Theft),07-02-2020,"At M/S Satpurush Enterprises, near Tari Bridge, Bastora Bardez Goa",Bastora,1,"(15.5923, 73.8065)",Medium,InHouse
+417,Mapusa_Ps,2020,Theft (House Theft),15-04-2020,At H. No. 117/2 Gaunsawado Sodiem Siolim Bardez Goa,Siolim,3,"(15.6305, 73.7668)",Low,MarketZone
+418,Mapusa_Ps,2020,Theft (House Theft),05-09-2020,At near Carvalho Petrol Pump Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5963, 73.8128)",High,InHouse
+419,Mapusa_Ps,2020,Theft (House Theft),06-05-2020,"At H. No. 419/3 Almeida Wado, Parra Bardez Goa",Parra,1,"(15.5920, 73.7872)",Low,InHouse
+420,Mapusa_Ps,2020,Theft (HBT Day),07-05-2020,"At Flat No. 204, Building No. D-1, Sattadhar Arcade, Peddem Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5981, 73.8140)",Medium,InHouse
+421,Mapusa_Ps,2020,Theft (HBT Day),07-06-2020,At Temple of Laxmi Narayan Prabhu and Kalkhadpeshwar Temple Camurlim Bardez Goa,Camurlim,1,"(15.6790, 73.8705)",Medium,ReligiousPlace
+422,Mapusa_Ps,2020,Theft (HBT Day),06-11-2020,"At Pharmacy styled as “Shrey Medical Store” Shop No. 247, Municipal Market Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5970, 73.8125)",High,ParkingLot
+423,Mapusa_Ps,2020,Theft (HBT Night),03-01-2021,At temple of Laxmi Narayan Prabhu and Kalkhadpeshwar temple Camurlim Bardez Goa,Camurlim,1,"(15.6270, 73.8215)",Low,MarketZone
+424,Mapusa_Ps,2020,Theft (HBT Night),26-01-2021,At Madel Halala Chicken Centre Madel Thivim Bardez Goa,Thivim ,4,"(15.6465, 73.8358)",Medium,MarketZone
+425,Mapusa_Ps,2020,Theft (HBT Night),14-02-2021,Shop No. 193 Udai Restaurant Ganeshpuri Housing Board Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5980, 73.8131)",Medium,MarketZone
+426,Mapusa_Ps,2020,Theft (HBT Night),08-02-2021,"At Pharmacy styled as “Shrey Medical Store” Shop No. 247, Municipal Market Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5919, 73.8110)",High,ReligiousPlace
+427,Mapusa_Ps,2020,Theft (HBT Night),07-03-2021,"At Shivashakti Electronics Shop No. B-6, Municipal Market Bardez Goa",Mapusa(MMC),1,"(15.5972, 73.8127)",High,InHouse
+428,Mapusa_Ps,2020,Theft (HBT Night),19-03-2021,"At Shree Shiv Mandir Sattadhar Complex, Karaswada Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5984, 73.8151)",Medium,ResidentialArea
+429,Mapusa_Ps,2020,Theft (HBT Night),24-04-2021,"At H. No. 76/4, Acoi Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5967, 73.8119)",Low,MarketZone
+430,Mapusa_Ps,2020,Theft (HBT Night),21-01-2021,At Gerald F D’Mello Camarkhajan Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5976, 73.8118)",Medium,InHouse
+431,Mapusa_Ps,2020,Theft (HBT Night),06-05-2021,"At Fogueri Caterers, Shed No. 1501, Thivim Bardez Goa",Thivim,1,"(15.6452, 73.8339)",Medium,Business/Store
+432,Mapusa_Ps,2020,Theft (HBT Night),27-05-2021,"At H. No. 90, Ward No. 7, near SFX School, Shetyewado, Dhuler Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5975, 73.8123)",Low,ReligiousPlace
+433,Mapusa_Ps,2020,Theft (HBT Night),29-05-2021,"At Office No. 503-507, 5th Floor, Cosmos Centre, Morod Mapusa Bardez Goa",Mapusa(MMC),5,"(15.5978, 73.8133)",Medium,ReligiousPlace
+434,Mapusa_Ps,2020,Theft (HBT Night),01-06-2021,At Office of St. Jerome Church Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5982, 73.8137)",High,ReligiousPlace
+435,Mapusa_Ps,2020,Theft (Chain Snatching),13-08-2021,At Mukreywado Revora Nr Vetal Temple Bardez Goa,Revora,2,"(15.6802, 73.8829)",Low,MarketZone
+436,Mapusa_Ps,2020,Theft (Chain Snatching),31-08-2021,At Nr Chapel Acoi Karaswada Mapusa Bardez Goa,Mapusa(MMC),5,"(15.5986, 73.8157)",Medium,NearCollege
+437,Mapusa_Ps,2020,Theft (Chain Snatching),02-09-2021,At Nr Poornima Hotel Ansabhat Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5970, 73.8122)",Medium,LocalArea
+438,Mapusa_Ps,2020,Theft (Chain Snatching),03-09-2021,At in front of St. Rita High School Colvale Bardez Goa,Colvale,1,"(15.6518, 73.8291)",Medium,ReligiousPlace
+439,Mapusa_Ps,2020,Theft (Chain Snatching),09-09-2021,At Nr Peace Link Housing Society Khorlim Mapusa Bardez Goa,Mapusa(MMC),2,"(15.6001, 73.8200)",Medium,LocalArea
+440,Mapusa_Ps,2020,Theft (Chain Snatching),22-09-2021,At Near Ganesh Temple Duler Nachinola Bardez Goa,Nachinola (Duler),4,"(15.6328, 73.8723)",Medium,OnRoad
+441,Mapusa_Ps,2020,Theft (Chain Snatching),11-08-2020,At Ruzaiwado Dhuler Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5989, 73.8174)",Medium,IndustrialArea
+442,Mapusa_Ps,2020,Drug Related (NDPS),19-08-2021,"At KTC Bus Stand Mapusa, Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5938, 73.8125)",High,LocalArea
+443,Mapusa_Ps,2020,Drug Related (NDPS),26-10-2021,"At behind Binani Glass Factory, Colvale Bardez Goa",Colvale,4,"(15.6480, 73.8262)",Low,ResidentialArea
+444,Mapusa_Ps,2020,Drug Related (NDPS),01-03-2022,At Dhat Cansa Thivim Bardez Goa,Thivim,1,"(15.6512, 73.8347)",Low,OnRoad
+445,Mapusa_Ps,2020,Drug Related (NDPS),24-02-2022,At Central Jail Colvale Bardez Goa,Colvale,4,"(15.6479, 73.8290)",High,LocalArea
+446,Mapusa_Ps,2020,Drug Related (NDPS),03-03-2022,At Four Road Junction Parra Bardez Goa,Parra,1,"(15.5925, 73.7892)",High,ParkingLot
+447,Mapusa_Ps,2020,Assault (Hurt) ,05-05-2022,At Vidhynagar Khorlim Mapusa Bardez Goa,Mapusa(MMC),1,"(15.6007, 73.8213)",Medium,Restaurant
+448,Mapusa_Ps,2020,Assault (Hurt) ,17-05-2022,"At Nr Chodankar Medical Store, Assonora Bardez Goa",Assonora,3,"(15.6582, 73.8615)",Medium,LocalArea
+449,Mapusa_Ps,2020,Assault (Hurt) ,16-06-2022,At Ahead of Galaxy Hospital Duler Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5973, 73.8148)",High,InHouse
+450,Mapusa_Ps,2020,Assault (Hurt) ,05-05-2022,"At Madant, Nadora Bardez Goa",Nadora,4,"(15.6825, 73.8839)",Low,InHouse
+451,Mapusa_Ps,2020,Assault (Hurt) ,27-08-2022,"At near H. No. 103, Paliem Uccassim Bardez Goa",Ucassaim ,1,"(15.6701, 73.8672)",Low,MarketZone
+452,Mapusa_Ps,2020,Assault (Hurt) ,01-08-2022,"At H. No. 871/T, Ramtolem Aldona Bardez Goa",Aldona,2,"(15.6287, 73.8794)",Low,ResidentialArea
+453,Mapusa_Ps,2020,Assault (Hurt) ,14-01-2022,At in front of Fair Price Shop Nr Bungalow Thivim Bardez Goa,Thivim,1,"(15.6503, 73.8310)",Medium,ResidentialArea
+454,Mapusa_Ps,2020,Assault (Hurt) ,06-01-2023,"At Khalapwada Verla, Canca Bardez Goa","Verla,Canca",4,"(15.5812, 73.8011)",Low,InHouse
+455,Mapusa_Ps,2020,Assault (Hurt) ,28-01-2023,At Golwan Madel Thivim Bardez Goa,Thivim ,5,"(15.6471, 73.8365)",Medium,LocalArea
+456,Mapusa_Ps,2020,Assault (Hurt) ,29-06-2023,"At H. No. 91, Ektanagar, Housing Board Mapusa Goa",Mapusa(MMC),3,"(15.5992, 73.8184)",Low,MarketZone
+457,Mapusa_Ps,2020,Assault (Hurt) ,19-12-2023,At Tar Bastora Bardez Goa,Bastora ,2,"(15.5956, 73.8052)",Medium,ReligiousPlace
+458,Mapusa_Ps,2020,Assault (Hurt) ,09-03-2023,At Nr Deepak Café Tar Bastora Bardez Goa,Bastora ,3,"(15.5948, 73.8048)",Medium,ResidentialArea
+459,Mapusa_Ps,2020,Assault (Hurt) ,15-10-2023,At Nr Poreshwar Temple Poreshwar Wado Camurlim Bardez Goa,Camurlim ,1,"(15.6809, 73.8721)",Low,InHouse
+460,Mapusa_Ps,2020,Assault (Hurt) ,07-09-2023,At Talapwado Pirna Bardez Goa,Pirna ,2,"(15.6862, 73.8823)",Low,LocalArea
+461,Mapusa_Ps,2020,Assault (Hurt) ,12-01-2024,"At H. No. 73, Ponxem Madel Thivim Bardez Goa",Thivim ,2,"(15.6468, 73.8332)",Low,LocalArea
+462,Mapusa_Ps,2020,Assault (Hurt) ,14-05-2024,At Sim Khorlim Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5995, 73.8191)",Medium,MarketZone
+463,Mapusa_Ps,2020,Assault (Hurt) ,20-09-2024,At Pavacao Moira Bardez Goa,Moira ,4,"(15.6213, 73.8645)",Low,InHouse
+464,Mapusa_Ps,2020,Assault (Hurt) ,22-09-2024,"At Fast Food styled as A-2, Fast Food, Sirsaim Bardez Goa",Sirsaim,2,"(15.6708, 73.8501)",Medium,InHouse
+465,Mapusa_Ps,2020,Assault (Hurt) ,07-06-2020,At Sai Krupa H. No. 92/12(A) Ponxem Madel Thivim Bardez Goa,Thivim ,1,"(15.6470, 73.8334)",Low,LocalArea
+466,Mapusa_Ps,2020,Assault (Hurt) ,07-11-2020,"At 00.30 Hrs. near Mannat Mendes Building, Karaswada Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5968, 73.8165)",Medium,MarketZone
+467,Mapusa_Ps,2021,Theft (Auto Theft),13-01-2021,At D’Mellow Wado Canca Bardez Goa,"Verla,Canca",2,"(15.5820, 73.8009)",Low,LocalArea
+468,Mapusa_Ps,2021,Theft (Auto Theft),18-01-2021,At in front of Hotel Braganza Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5985, 73.8142)",High,MarketZone
+469,Mapusa_Ps,2021,Theft (Auto Theft),04-09-2020,At Khorlim Mapusa Bardez Goa (MMC),Mapusa(MMC),1,"(15.5993, 73.8196)",Medium,Restaurant
+470,Mapusa_Ps,2021,Theft (Auto Theft),14-02-2021,At in front of shop styled as “Tar Jewellers” Municipal Market Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5900, 73.8200)",High,ResidentialArea
+471,Mapusa_Ps,2021,Theft (Auto Theft),10-03-2021,Nr Galaxy Hospital Shelpem Dhuler Mapusa Bardez Goa,Mapusa(MMC),2,"(15.6000, 73.8300)",Medium,ResidentialArea
+472,Mapusa_Ps,2021,Theft (Auto Theft),22-05-2021,"At Pinto Wado Verla, Canca Bardez Goa","Verla,Canca",4,"(15.5892, 73.8073)",Low,LocalArea
+473,Mapusa_Ps,2021,Theft (Auto Theft),27-05-2021,"At near Raja Apartment, Angod Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5985, 73.8251)",Medium,LocalArea
+474,Mapusa_Ps,2021,Theft (Auto Theft),26-05-2021,At Canca Bandh Canca Bardez Goa,"Verla,Canca",4,"(15.5901, 73.8089)",Low,LocalArea
+475,Mapusa_Ps,2021,Theft (Auto Theft),28-05-2021,At Ganeshpuri Housing Board Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5937, 73.8235)",Medium,ResidentialArea
+476,Mapusa_Ps,2021,Theft (Auto Theft),01-06-2021,"At Arradi, Guirim, Bardez Goa",Guirim ,1,"(15.5815, 73.8012)",Low,ResidentialArea
+477,Mapusa_Ps,2021,Theft (Auto Theft),29-05-2021,"Kumya Morod, Guirim Bardez Goa",Guirim ,5,"(15.5798, 73.7997)",Low,ResidentialArea
+478,Mapusa_Ps,2021,Theft (Auto Theft),23-06-2021,At Nr RTO Office KTC Bus Stand Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5921, 73.8234)",High,MarketZone
+479,Mapusa_Ps,2021,Theft (Auto Theft),06-07-2021,At Ektanagar Housing Board Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5953, 73.8210)",Medium,MarketZone
+480,Mapusa_Ps,2021,Theft (Auto Theft),23-07-2021,At Nr Honda Showroom Dhuler Mapusa Bardez Goa,Mapusa(MMC),4,"(15.6004, 73.8296)",High,ResidentialArea
+481,Mapusa_Ps,2021,Theft (Auto Theft),02-02-2021,At Nr Municipal Fish Market Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5902, 73.8205)",High,LocalArea
+482,Mapusa_Ps,2021,Theft (Auto Theft),13-08-2021,"At Marod Mapusa, Bardez Goa",Mapusa(MMC),2,"(15.5935, 73.8228)",Medium,LocalArea
+483,Mapusa_Ps,2021,Theft (Auto Theft),31-08-2021,"At Marod Mapusa, Bardez Goa",Mapusa(MMC),5,"(15.5925, 73.8107)",Medium,ResidentialArea
+484,Mapusa_Ps,2021,Theft (House Theft),11-08-2020,At Ucassaim Bardez Goa,Ucassaim,2,"(15.5749, 73.8101)",Low,InHouse
+485,Mapusa_Ps,2021,Theft (House Theft),02-07-2021,At Gawsawado Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5918, 73.8193)",Medium,MarketZone
+486,Mapusa_Ps,2021,Theft (House Theft),06-02-2021,At Moitem Assonora Bardez Goa,Assonora,1,"(15.6292, 73.9148)",Low,InHouse
+487,Mapusa_Ps,2021,Theft (House Theft),25-07-2021,At H. No. 28 Dhuler Mapusa Bardez Goa,Mapusa(MMC),4,"(15.6007, 73.8301)",Medium,InHouse
+488,Mapusa_Ps,2021,Theft (House Theft),19-08-2021,"At Stall, Bodgini, Mapusa, Bardez Goa",Mapusa(MMC),3,"(15.5903, 73.8214)",Medium,MarketZone
+489,Mapusa_Ps,2021,Theft (House Theft),02-09-2021,"At Flat No. E-3, Laxmi Apartment Rajwado Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5929, 73.8221)",Medium,InHouse
+490,Mapusa_Ps,2021,Theft (House Theft),03-09-2021,"At H. No. 10, Nr New Goa High School Dattawadi Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5978, 73.8260)",Medium,InHouse
+491,Mapusa_Ps,2021,Theft (House Theft),09-09-2021,At Bhandari Samaj Mini Hall Bodgini Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5905, 73.8208)",Medium,ResidentialArea
+492,Mapusa_Ps,2021,Theft (House Theft),22-09-2021,At M/s Pratik Motors Dattawadi Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5971, 73.8255)",Medium,MarketZone
+493,Mapusa_Ps,2021,Theft (House Theft),08-01-2021,Dhuler Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5905, 73.8102)",Medium,InHouse
+494,Mapusa_Ps,2021,Theft (HBT Day),07-06-2021,At Shop Styled as “RUYSHA SUPER MARKET” Teen Maad Maina Sodiem Siolim Bardez Goa,Siolim,1,"(15.6189, 73.7667)",High,MarketZone
+495,Mapusa_Ps,2021,Theft (HBT Day),04-09-2021,"At Flat No. 3F-4, Daril Apartment Cuchelim Bardez Goa",Cuchelim,1,"(15.5950, 73.8157)",Medium,InHouse
+496,Mapusa_Ps,2021,Theft (HBT Day),09-09-2021,"At C2, 404, 4th Floor Raj Royal Residency Acoi Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5982, 73.8239)",Medium,InHouse
+497,Mapusa_Ps,2021,Theft (HBT Night),21-01-2021,Moira Bardez Goa,Moira,3,"(15.5972, 73.8064)",Low,ResidentialArea
+498,Mapusa_Ps,2021,Theft (HBT Night),30-03-2021,At Shop Styled as “Sai Enterprise” Tar Bastora Bardez Goa,Bastora (Tar),5,"(15.5869, 73.7978)",Medium,MarketZone
+499,Mapusa_Ps,2021,Theft (HBT Night),04-05-2021,At Atafonde Moira Bardez Goa (Moira),Moira,1,"(15.5991, 73.8052)",Low,LocalArea
+500,Mapusa_Ps,2021,Theft (HBT Night),08-07-2021,At Shop Styled as “TARAMATI GENERAL STORE” Aradi Guirim Bardez Goa,Guirim (Aradi),2,"(15.5836, 73.8035)",Medium,MarketZone
+501,Mapusa_Ps,2021,Theft (HBT Night),10-07-2021,At Ferreira Manor Opposite Galaxy Hospital Dhuler Mapusa Bardez Goa,Mapusa(MMC),2,"(15.6000, 73.8300)",Medium,ResidentialArea
+502,Mapusa_Ps,2021,Theft (HBT Night),29-07-2021,"At Shop Styled as “Y.G.A Mobile” Shop No. C-1, Municipal Market, Mapusa Bardez Goa",Mapusa(MMC),5,"(15.5900, 73.8200)",High,MarketZone
+503,Mapusa_Ps,2021,Theft (HBT Night),10-08-2021,"At Shop Styled as “Shree Jewelers” Shop No. 14, Hotel Braganza Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5921, 73.8234)",High,MarketZone
+504,Mapusa_Ps,2021,Theft (HBT Night),21-08-2021,"At H. No. 252/35 Pintowado Verla, Canca, Bardez Goa","Verla,Canca",3,"(15.5892, 73.8073)",Low,InHouse
+505,Mapusa_Ps,2021,Theft (HBT Night),03-09-2021,"At Shree Sakhleshwar Temple, Sonarwado, Verla, Canca, Bardez Goa","Verla,Canca",1,"(15.5901, 73.8089)",Medium,ReligiousPlace
+506,Mapusa_Ps,2021,Theft (HBT Night),10-09-2021,"At House of Mr. Xavier, Bamanwado Cuchelim Mapusa Bardez Goa",Cuchelim,2,"(15.5950, 73.8157)",Low,ResidentialArea
+507,Mapusa_Ps,2021,Assault (Hurt) ,15-01-2021,"At H. No. 730, Satapoira Moira Bardez Goa",Moira,3,"(15.5972, 73.8064)",Low,InHouse
+508,Mapusa_Ps,2021,Assault (Hurt) ,03-01-2021,At Sainagar Aldona Bardez Goa,Aldona,1,"(15.5804, 73.8769)",Low,LocalArea
+509,Mapusa_Ps,2021,Assault (Hurt) ,26-01-2021,At Bahrvawado Camurlim Bardez Goa,Camurlim,4,"(15.6160, 73.8953)",Low,LocalArea
+510,Mapusa_Ps,2021,Assault (Hurt) ,26-01-2021,Guirim Bardez Goa (Guirim),Guirim,4,"(15.5815, 73.8012)",Low,LocalArea
+511,Mapusa_Ps,2021,Assault (Hurt) ,08-02-2021,At Savnnah Complex Morod Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5937, 73.8235)",Medium,ResidentialArea
+512,Mapusa_Ps,2021,Assault (Hurt) ,07-03-2021,At Saiba Bar and Restaurant Cuchelim Mapusa Bardez Goa,Cuchelim,1,"(15.5950, 73.8157)",Medium,MarketZone
+513,Mapusa_Ps,2021,Assault (Hurt) ,08-03-2021,At Pequen Marg Cansa Thivim Bardez Goa,Thivim,2,"(15.6579, 73.8503)",Low,ResidentialArea
+514,Mapusa_Ps,2021,Assault (Hurt) ,14-03-2021,At Prarthana Bar and Restaurant Karaswada Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5982, 73.8239)",Medium,MarketZone
+515,Mapusa_Ps,2021,Assault (Hurt) ,14-03-2021,"Morod, Guirim Bardez Goa",Guirim (Morod),2,"(15.5798, 73.7997)",Low,ResidentialArea
+516,Mapusa_Ps,2021,Assault (Hurt) ,19-03-2021,At Nr Bodgeshwar Temple Bodgini Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5905, 73.8208)",Medium,ReligiousPlace
+517,Mapusa_Ps,2021,Assault (Hurt) ,19-03-2021,At H. No. 119/9 Nr. Datta Temple Dattawadi Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5978, 73.8260)",Medium,ReligiousPlace
+518,Mapusa_Ps,2021,Assault (Hurt) ,24-04-2021,"At H. No. 240, Ward No. 1, Xelpem Dhuler Mapusa Bardez Goa",Mapusa(MMC),4,"(15.6004, 73.8296)",Medium,ResidentialArea
+519,Mapusa_Ps,2021,Drug Related (NDPS) ,11-01-2021,At Nr Four Road Junction Karaswada Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5982, 73.8239)",High,OnRoad
+520,Mapusa_Ps,2021,Drug Related (NDPS) ,11-01-2021,Parra Bardez Goa,Parra,2,"(15.5912, 73.7910)",Low,ResidentialArea
+521,Mapusa_Ps,2021,Drug Related (NDPS) ,06-05-2021,"At Undertrial Block, Central Jail, Colvale Bardez Goa",Colvale,1,"(15.6331, 73.8609)",High,ResidentialArea
+522,Mapusa_Ps,2021,Drug Related (NDPS) ,17-09-2021,At Nr Village Panchayat Building Moira Bardez Goa,Moira,3,"(15.5991, 73.8052)",Low,ResidentialArea
+523,Mapusa_Ps,2021,Drug Related (NDPS) ,30-09-2021,At Nr Primary School Namoshi Guirim Bardez Goa,Guirim (Namoshi),5,"(15.5836, 73.8035)",Medium,NearCollege
+524,Mapusa_Ps,2021,Drug Related (NDPS) ,26-10-2021,At Nr Communidade House Parra Bardez Goa,Parra,4,"(15.5912, 73.7910)",Low,ResidentialArea
+525,Mapusa_Ps,2022,Theft (Auto Theft),01-03-2022,"At Nr Idea Showroom, Feira Alto, Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5902, 73.8205)",Medium,MarketZone
+526,Mapusa_Ps,2022,Theft (Auto Theft),07-01-2022,"Kumya Morod, Guirim Bardez Goa",Guirim (Morod),1,"(15.5798, 73.7997)",Low,ResidentialArea
+527,Mapusa_Ps,2022,Theft (Auto Theft),31-03-2022,At Near Corporation Bank Mapusa Bardez Goa,Mapusa(MMC),5,"(15.5921, 73.8234)",High,MarketZone
+528,Mapusa_Ps,2022,Theft (Auto Theft),04-04-2022,At In Front of Shop Styled as “KAR TECH” Car Accessories Sonarwado Canca Bardez Goa,"Verla,Canca",1,"(15.5901, 73.8089)",Medium,MarketZone
+529,Mapusa_Ps,2022,Theft (Auto Theft),05-02-2022,At 19.00 hrs. at Nr District Hospital Peddem Mapusa Bardez Goa,Mapusa(MMC),1,"(15.6007, 73.8301)",High,Restaurant
+530,Mapusa_Ps,2022,Theft (Auto Theft),30-03-2022,At Nr Entrance Gate Municipal Market Mapusa Bardez Goa,Mapusa(MMC),5,"(15.5900, 73.8200)",High,MarketZone
+531,Mapusa_Ps,2022,Theft (Auto Theft),24-02-2022,At KTC Bus Stand Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5921, 73.8234)",High,OnRoad
+532,Mapusa_Ps,2022,Theft (Auto Theft),17-05-2022,At Near Saldhana Business Tower Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5930, 73.8250)",High,Business/Store
+533,Mapusa_Ps,2022,Theft (Auto Theft),03-06-2022,"At Near Sub Yard Gate, KTC Bus Stand, Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5921, 73.8234)",High,OnRoad
+534,Mapusa_Ps,2022,Theft (Auto Theft),16-06-2022,"At Premises of Mapusa Restaurant  , Peddem Bardez Goa",Mapusa(MMC),3,"(15.6007, 73.8301)",High,Restaurant
+535,Mapusa_Ps,2022,Theft (Auto Theft),05-05-2022,"At In Front of J.K. Wines, Municipal Market Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5900, 73.8200)",High,MarketZone
+536,Mapusa_Ps,2022,Theft (Auto Theft),15-06-2022,"At Paliem, Ucassaim Bardez Goa",Ucassaim (Paliem),3,"(15.6238, 73.8271)",Low,ResidentialArea
+537,Mapusa_Ps,2022,Theft (Auto Theft),28-03-2022,At Gamawao Parra Bardez Goa,Parra,5,"(15.5920, 73.7932)",Low,LocalArea
+538,Mapusa_Ps,2022,Theft (Auto Theft),03-06-2022,Cuchelim Mapusa Bardez Goa,Cuchelim,2,"(15.5950, 73.8157)",Medium,LocalArea
+539,Mapusa_Ps,2022,Theft (Auto Theft),06-03-2022,At Nr Jama Paradise Apartment Abbaiswado Canca Bardez Goa,"Verla,Canca",4,"(15.5905, 73.8080)",Medium,LocalArea
+540,Mapusa_Ps,2022,Theft (Auto Theft),26-08-2022,"At In Front of Derryl Apartment, Cuchelim Mapusa Bardez Goa",Cuchelim,3,"(15.5950, 73.8157)",Medium,LocalArea
+541,Mapusa_Ps,2022,Theft (Auto Theft),14-07-2022,At Angod Mapusa Bardez Goa,Mapusa(MMC),5,"(15.5935, 73.8215)",Medium,LocalArea
+542,Mapusa_Ps,2022,Theft (Auto Theft),28-08-2022,At In Front of Saish Vihar Building Xell Bastora Bardez Goa,Bastora (Xell),3,"(15.5809, 73.7986)",Low,ResidentialArea
+543,Mapusa_Ps,2022,Theft (House Theft),09-01-2022,At Ntex Transportation Service Private Limited H. No. 3/146 Fiddish Height Karaswada Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5982, 73.8239)",Medium,IndustrialArea
+544,Mapusa_Ps,2022,Theft (House Theft),25-02-2022,Guirim Bardez Goa (Guirim),Guirim,5,"(15.5815, 73.8012)",Low,ResidentialArea
+545,Mapusa_Ps,2022,Theft (House Theft),31-03-2022,At Gawsawado Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5905, 73.8208)",Medium,ResidentialArea
+546,Mapusa_Ps,2022,Theft (House Theft),16-03-2022,"At Opposite Siddhi Super Market Flat No 101, 1st Floor Karaswada Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5982, 73.8239)",Medium,LocalArea
+547,Mapusa_Ps,2022,Theft (House Theft),03-12-2021,"At H. No. 702, Britto Wado Parra Bardez Goa",Parra,4,"(15.5925, 73.7921)",Low,LocalArea
+548,Mapusa_Ps,2022,Theft (House Theft),20-03-2022,Parra Bardez Goa,Parra,4,"(15.5912, 73.7910)",Low,ResidentialArea
+549,Mapusa_Ps,2022,Theft (House Theft),03-06-2022,At SBI ATM Counter Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5902, 73.8205)",High,MarketZone
+550,Mapusa_Ps,2022,Theft (House Theft),23-04-2022,At ATM Counter Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5902, 73.8205)",High,MarketZone
+551,Mapusa_Ps,2022,Theft (House Theft),23-04-2022,At Flat No A-SF-4 Chandranath Apartment Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5920, 73.8221)",Medium,InHouse
+552,Mapusa_Ps,2022,Theft (House Theft),23-08-2022,Dhuler Mapusa Bardez Goa,Mapusa(MMC),3,"(15.6004, 73.8296)",Medium,LocalArea
+553,Mapusa_Ps,2022,Theft (House Theft),27-08-2022,Cuchelim Mapusa Bardez Goa,Cuchelim,5,"(15.5950, 73.8157)",Medium,LocalArea
+554,Mapusa_Ps,2022,Theft (House Theft),15-09-2022,"At H. No. 2/197 Tar Poly Clinic, Dhuler Mapusa Bardez Goa",Mapusa(MMC),4,"(15.6004, 73.8296)",Medium,NearCollege
+555,Mapusa_Ps,2022,Theft (House Theft),13-11-2022,At Inside the Premises of Construction Site at Arradi Parra Bardez Goa,Parra (Arradi),4,"(15.5912, 73.7910)",Low,Beachside
+556,Mapusa_Ps,2022,Theft (House Theft),28-02-2022,"At Flat No 402 4th Floor Verla, Canca, Canca Vista Sainagar Verla, Canca, Bardez Goa",Canca Verla,4,"(15.5901, 73.8089)",Medium,InHouse
+557,Mapusa_Ps,2022,Theft (HBT Day),21-04-2022,"At H. No. 39, Saw Mill Khorlim Mapusa Bardez Goa",Mapusa(MMC),5,"(15.5908, 73.8231)",Medium,InHouse
+558,Mapusa_Ps,2022,Theft (HBT Day),19-05-2022,"At H. No. AD/B/3, Nr. Pimple Tree Karaswada Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5982, 73.8239)",Medium,InHouse
+559,Mapusa_Ps,2022,Theft (HBT Day),23-12-2022,"At H. No. 57/1, Jodar Waddo Nachinola Bardez Goa",Nachinola,1,"(15.6123, 73.8495)",Low,InHouse
+560,Mapusa_Ps,2022,Theft (HBT Day),05-05-2022,At Premises of Rizim Plaza Building Morod Mapusa Bardez Goa,Mapusa(MMC),5,"(15.5937, 73.8235)",Medium,IndustrialArea
+561,Mapusa_Ps,2022,Theft (HBT Night),29-04-2022,At R/O H. No. 69 Pirazona Moira Bardez Goa,Moira,5,"(15.5972, 73.8064)",Low,InHouse
+562,Mapusa_Ps,2022,Theft (HBT Night),17-08-2022,At H. No. 307 Boquachi Aradi Parra Bardez Goa,Parra (Aradi),1,"(15.5912, 73.7910)",Low,InHouse
+563,Mapusa_Ps,2022,Theft (HBT Night),01-10-2022,"At H. No. 4/95/F, Nr. Sai Girls Sports Hostel, Acoi Peddem Mapusa Bardez Goa",Mapusa(MMC),5,"(15.6001, 73.8303)",Medium,InHouse
+564,Mapusa_Ps,2022,Theft (HBT Night),27-10-2022,"At H. No. 171, Plot No. B-19 Ganeshpuri Housing Board Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5992, 73.8291)",Medium,InHouse
+565,Mapusa_Ps,2022,Theft (HBT Night),25-01-2022,"At Parking Lot, Near Bodgeshwar Temple, Bodgini, Mapusa, Bardez, Goa",Mapusa(MMC),3,"(15.5928, 73.8235)",High,ParkingLot
+566,Mapusa_Ps,2022,Drug Related (NDPS),03-03-2022,At Nr. New Helipad Bodgini Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5930, 73.8254)",Medium,localArea
+567,Mapusa_Ps,2022,Drug Related (NDPS),03-03-2022,At KTC Bus Stand Mapusa,Mapusa(MMC),1,"(15.5921, 73.8234)",High,OnRoad
+568,Mapusa_Ps,2022,Drug Related (NDPS),24-05-2022,At Near Akasa Boquechi Arradi Parra Bardez Goa,Parra (Arradi),4,"(15.5912, 73.7910)",Low,ResidentialArea
+569,Mapusa_Ps,2022,Drug Related (NDPS),02-07-2022,Nr. Youth Hostel Peddem Mapusa Bardez Goa,Mapusa(MMC),1,"(15.6003, 73.8311)",Medium,localArea
+570,Mapusa_Ps,2022,Drug Related (NDPS),16-09-2022,At New Bus Terminus Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5915, 73.8223)",High,localArea
+571,Mapusa_Ps,2022,Drug Related (NDPS),01-10-2022,"At Indiranagar, Karaswada Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5980, 73.8238)",Medium,ResidentialArea
+572,Mapusa_Ps,2022,Drug Related (NDPS),13-12-2022,At Karaswada Mapusa Bardez,Mapusa(MMC),2,"(15.5982, 73.8239)",Medium,ResidentialArea
+573,Mapusa_Ps,2022,Assault (Hurt) ,14-01-2022,"At Khalapwado, Verla, Canca, Bardez Goa",Verla (Canca),2,"(15.5905, 73.8080)",Medium,ResidentialArea
+574,Mapusa_Ps,2022,Assault (Hurt) ,01-08-2022,At Nr BDO Office Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5918, 73.8229)",Medium,ResidentialArea
+575,Mapusa_Ps,2022,Assault (Hurt) ,18-01-2022,At R/O Tropawado Sodiem Siolim Mapusa Bardez Goa,Siolim,3,"(15.6094, 73.7752)",Low,ResidentialArea
+576,Mapusa_Ps,2022,Assault (Hurt) ,19-01-2022,"At Papa Fast Food, Near Alankar Theater Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5923, 73.8225)",High,Restaurant
+577,Mapusa_Ps,2022,Assault (Hurt) ,16-01-2022,At Near Skylaik Apartment Althino Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5945, 73.8240)",Medium,ResidentialArea
+578,Mapusa_Ps,2022,Assault (Hurt) ,30-01-2022,At Near Ghateshwar Temple Khorlim Mapusa Bardez Goa,Mapusa(MMC),5,"(15.5910, 73.8228)",Medium,ReligiousPlace
+579,Mapusa_Ps,2022,Assault (Hurt) ,23-02-2022,"At Near Chapel, Cuchelim Mapusa Bardez Goa",Cuchelim,4,"(15.5990, 73.8185)",Medium,ReligiousPlace
+580,Mapusa_Ps,2022,Assault (Hurt) ,28-02-2022,"At IDC Karaswada, Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5905, 73.8120)",Medium,IndustrialArea
+581,Mapusa_Ps,2022,Assault (Hurt) ,28-02-2022,"At Infront of Karim Garage, Ghateswarnagar Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5912, 73.8108)",Medium,Business/Store
+582,Mapusa_Ps,2022,Assault (Hurt) ,08-03-2022,At Opposite Bata Showroom Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5908, 73.8112)",High,Business/Store
+583,Mapusa_Ps,2023,Theft (Auto Theft),06-01-2023,At Nr. TVS Mars Showroom Dhuler Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5895, 73.8125)",Medium,Business/Store
+584,Mapusa_Ps,2023,Theft (Auto Theft),05-01-2023,"At Near Chapel, Cuchelim Mapusa Bardez Goa",Cuchelim,1,"(15.5950, 73.8157)",Medium,ResidentialArea
+585,Mapusa_Ps,2023,Theft (Auto Theft),04-01-2023,"IDC Karaswada, Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5982, 73.8239)",Medium,Business/Store
+586,Mapusa_Ps,2023,Theft (Auto Theft),28-02-2023,"At Infront of Karim Garage, Ghateswarnagar Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5920, 73.8215)",Medium,ResidentialArea
+587,Mapusa_Ps,2023,Theft (Auto Theft),14-04-2023,At Opposite Bata Showroom Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5905, 73.8208)",High,ReligiousPlace
+588,Mapusa_Ps,2023,Theft (Auto Theft),01-04-2023,At Nr. TVS Mars Showroom Dhuler Mapusa Bardez Goa,Mapusa(MMC),1,"(15.6004, 73.8296)",Medium,MarketZone
+589,Mapusa_Ps,2023,Theft (Auto Theft),29-06-2023,"At Kulan, Teen Maad, Sodiem, Siolim, Bardez Goa",Siolim,5,"(15.6101, 73.7745)",Low,Beachside
+590,Mapusa_Ps,2023,Theft (Auto Theft),10-06-2023,At Opposite Bardez Goa Bazar Shop Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5917, 73.8219)",High,Business/Store
+591,Mapusa_Ps,2023,Theft (Auto Theft),01-08-2023,At Xelpem Dhuler Mapusa Bardez,Mapusa(MMC),1,"(15.6007, 73.8301)",Medium,ReligiousPlace
+592,Mapusa_Ps,2023,Theft (Auto Theft),07-09-2023,"At Nr. Bharaman Vatar Temple, Talwado, Mapusa, Bardez Goa",Mapusa(MMC),1,"(15.5929, 73.8221)",Medium,NearCollege
+593,Mapusa_Ps,2023,Theft (House Theft),01-11-2023,"At ATM E Lobby, State Bank Of India Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5902, 73.8205)",High,InHouse
+594,Mapusa_Ps,2023,Theft (House Theft),08-02-2023,"At Residential Quarters, JMFC Court Premises, Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5917, 73.8102)",Medium,Business/Store
+595,Mapusa_Ps,2023,Theft (House Theft),04-04-2023,"At Shop Styled as “Shree Siddhivinayak Jewellers” Stall No.137, Municipal Market, Mapusa Bardez",Mapusa(MMC),1,"(15.5921, 73.8110)",High,Restaurant
+596,Mapusa_Ps,2023,Theft (House Theft),27-04-2023,"At Shree Vithal Rakumai Temple, Vithalwadi, Ansabhat, Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5935, 73.8098)",Medium,ResidentialArea
+597,Mapusa_Ps,2023,Theft (House Theft),09-10-2023,At Premises Of Urban Health Centre Mapusa Bardez Goa,Mapusa(MMC),2,"(15.5942, 73.8105)",Medium,InHouse
+598,Mapusa_Ps,2023,Theft (House Theft),22-04-2023,"At H. No. 210, Bagawado, Corjuvem, Aldona, Bardez, Goa",Aldona,4,"(15.6090, 73.8442)",Low,InHouse
+599,Mapusa_Ps,2023,Theft (House Theft),19-12-2023,"At Nagvekar Jewellers, Municipal Market, Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5919, 73.8108)",High,InHouse
+600,Mapusa_Ps,2023,Theft (Chain Snatching),05-01-2023,At Nr. Hotel Navtara Bodgini Mapusa Bardez Goa,Mapusa(MMC),1,"(15.5905, 73.8101)",Medium,InHouse
+601,Mapusa_Ps,2023,Theft (Chain Snatching),19-02-2023,"At Near Thomas Fernandes House Arao, Pomburpha Bardez Goa",Pomburpha,3,"(15.6025, 73.8505)",Low,IndustrialArea
+602,Mapusa_Ps,2023,Theft (HBT Day),06-06-2023,"At Flat No. 103, 1st Floor, A-Block Palmar Grand Khalapwado, Canca, Bardez Goa",Canca,1,"(15.6002, 73.8180)",Low,Restaurant
+603,Mapusa_Ps,2023,Theft (HBT Day),21-07-2023,"At Ganeshpuri, Housing Board, Mapusa, Bardez Goa",Mapusa(MMC),3,"(15.5895, 73.8122)",Medium,ReligiousPlace
+604,Mapusa_Ps,2023,Theft (HBT Day),24-07-2023,"At H. No. 355/A, Shannon’s Lair, Mont-De-Guirim, Guirim, Bardez Goa",Guirim,4,"(15.6052, 73.8107)",Low,InHouse
+605,Mapusa_Ps,2023,Theft (HBT Day),14-12-2023,"At H. No. F-3, Vinayak Niwas, Ganeshpuri, Housing Board, Mapusa, Bardez, Goa",Mapusa(MMC),2,"(15.5898, 73.8120)",Medium,Business/Store
+606,Mapusa_Ps,2023,Theft (HBT Night),09-03-2023,"At Office No. 301 to 306, 3rd Floor, and Office No. 205, 2nd Floor of Commerce Centre Building Opposite Old Municipal Building Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5913, 73.8114)",High,ResidentialArea
+607,Mapusa_Ps,2023,Theft (HBT Night),08-07-2023,"At Jolly Hotel, Behind Chapel, Dhuler Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5902, 73.8105)",Medium,Restaurant
+608,Mapusa_Ps,2023,Theft (HBT Night),21-07-2023,"At Temple of Lord Shankar and Nagnath, Lingabhat, Parra, Bardez Goa",Parra,3,"(15.6030, 73.8195)",Low,NearCollege
+609,Mapusa_Ps,2023,Theft (HBT Night),10-11-2023,"At Flat No. U-G-12, Block-E, Clement Residency, Shelpem, Dhuler, Mapusa, Bardez Goa",Mapusa(MMC),2,"(15.5897, 73.8121)",Medium,Business/Store
+610,Mapusa_Ps,2023,Theft (HBT Night),15-12-2023,"At Shop No.138, 139, 140, 141, 142 Municipal Market, Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5916, 73.8113)",High,ReligiousPlace
+611,Mapusa_Ps,2023,Assault (Hurt),02-02-2023,At Pirzona Moira Bardez Goa,Moira,1,"(15.6228, 73.8509)",Low,localArea
+612,Mapusa_Ps,2023,Assault (Hurt),07-05-2023,"At Near Sushegat Bar and Restaurant, Plirmirwado, Khorjuvem, Aldona Bardez Goa",Aldona,1,"(15.6115, 73.8498)",Low,ParkingLot
+613,Mapusa_Ps,2023,Assault (Hurt),21-05-2023,"At Nr. Vrundavan Hospital, Peddem, Mapusa, Bardez Goa",Mapusa(MMC),3,"(15.5948, 73.8109)",Medium,ParkingLot
+614,Mapusa_Ps,2023,Assault (Hurt),21-05-2023,At Near Main Entrance of Sub Yard Premises Mapusa Bardez Goa,Mapusa(MMC),3,"(15.5930, 73.8111)",High,Business/Store
+615,Mapusa_Ps,2023,Assault (Hurt),02-06-2023,At Near Sai Baba Temple Cuchelim Mapusa Bardez Goa,Cuchelim,1,"(15.5988, 73.8183)",Medium,ReligiousPlace
+616,Mapusa_Ps,2023,Drug Related (NDPS),28-01-2023,At Behind New Bus Stand Mapusa Bardez Goa,Mapusa(MMC),4,"(15.5911, 73.8115)",High,localArea
+617,Mapusa_Ps,2023,Drug Related (NDPS),19-05-2023,"At Parking Lot Nr. St. Jerome Church, Mapusa, Bardez Goa",Mapusa(MMC),3,"(15.5923, 73.8106)",Medium,ParkingLot
+618,Mapusa_Ps,2023,Drug Related (NDPS),15-10-2023,"At Parking Lot Behind New KTC Bus Stand, Mapusa, Bardez Goa",Mapusa(MMC),3,"(15.5919, 73.8118)",Medium,ParkingLot
+619,Mapusa_Ps,2023,Drug Related (NDPS),30-10-2023,"At Near Plyword Building, Saliswado, Parra, Bardez, Goa",Parra,5,"(15.6035, 73.8180)",Low,Business/Store
+620,Mapusa_Ps,2024,Theft (Auto Theft),20-12-2023,"Near Natekar Pharmacy, Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5920, 73.8104)",Medium,ParkingLot
+621,Mapusa_Ps,2024,Theft (Auto Theft),12-01-2024,"At Near Bodgeshwar Temple, Bodgini, Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5915, 73.8102)",Medium,ReligiousPlace
+622,Mapusa_Ps,2024,Theft (Auto Theft),24-01-2024,"At Near Alankar Theater, Mapusa, Bardez Goa",Mapusa(MMC),4,"(15.5918, 73.8109)",High,Beachside
+623,Mapusa_Ps,2024,Theft (Auto Theft),20-02-2024,"At Near Alankar Theater, Mapusa, Bardez Goa",Mapusa(MMC),3,"(15.5918, 73.8109)",High,ResidentialArea
+624,Mapusa_Ps,2024,Theft (Auto Theft),29-02-2024,Ucassaim Bardez Goa,Ucassaim,5,"(15.6170, 73.8550)",Low,localArea
+625,Mapusa_Ps,2024,Theft (Auto Theft),31-12-2023,"At KTC Bus Stand, Mapusa, Bardez Goa",Mapusa(MMC),5,"(15.5915, 73.8117)",High,InHouse
+626,Mapusa_Ps,2024,Theft (Auto Theft),14-05-2024,"At H. No.661, Moira Bardez Goa",Moira,2,"(15.6240, 73.8515)",Low,Restaurant
+627,Mapusa_Ps,2024,Theft (Auto Theft),20-09-2024,"At Near Green Park Hotel, Guirim, Bardez Goa",Guirim,3,"(15.6075, 73.8120)",Medium,ResidentialArea
+628,Mapusa_Ps,2024,Theft (House Theft),02-01-2024,"At Villa No. 2 and Villa No. 6, 17/2, Marsierra, Gaunsawado, Sodiem, Siolim, Bardez, North Goa",Siolim,1,"(15.6180, 73.7795)",Low,InHouse
+629,Mapusa_Ps,2024,Theft (House Theft),23-04-2024,"At H. No.1447, Panarim, Aldona Bardez Goa",Aldona,4,"(15.6102, 73.8455)",Low,MarketZone
+630,Mapusa_Ps,2024,Theft (House Theft),04-07-2024,"At Inside Fruit Shop, Sub Yard Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5928, 73.8112)",High,Business/Store
+631,Mapusa_Ps,2024,Theft (House Theft),08-03-2024,"At Shop No.94, Municipal Market, Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5919, 73.8110)",High,MarketZone
+632,Mapusa_Ps,2024,Theft (House Theft),10-09-2024,"At State Bank Of India, Main Branch ATM Counter, Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5925, 73.8113)",High,IndustrialArea
+633,Mapusa_Ps,2024,Theft (House Theft),03-09-2024,"IDC Karaswada, Mapusa Bardez Goa",Mapusa(MMC),1,"(15.5958, 73.8210)",Medium,Restaurant
+634,Mapusa_Ps,2024,Theft (Chain Snatching),09-01-2024,"At Near Well-Come Bar, Paliem, Ucassaim, Bardez, Goa",Ucassaim,2,"(15.6205, 73.8530)",Low,Business/Store
+635,Mapusa_Ps,2024,Theft (Chain Snatching),22-09-2024,"At Near Baba Garage Kahalpwado, Verla, Canca, Bardez Goa",Canca Verla,4,"(15.6008, 73.8185)",Low,Restaurant
+636,Mapusa_Ps,2024,Theft (HBT Day),21-08-2024,"At Premises of “Blue Diamond Bar and Restaurant, H. No. 113/13, Taliwado, Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5912, 73.8108)",Medium,InHouse
+637,Mapusa_Ps,2024,Theft (HBT Day),06-10-2024,"At H. No. 481/3-C, Gayatri Niwas Abbaiswaddo, Canca, Bardez Goa",Canca Verla,1,"(15.6015, 73.8192)",Low,ResidentialArea
+638,Mapusa_Ps,2024,Theft (HBT Night),29-02-2024,"At Saliswado, Parra Bardez Goa",Parra,5,"(15.6028, 73.8175)",Low,NearCollege
+639,Mapusa_Ps,2024,Theft (HBT Night),08-06-2024,"At Dr. Sawkar, Ganeshpuri, Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5900, 73.8122)",Medium,ParkingLot
+640,Mapusa_Ps,2024,Theft (HBT Night),23-06-2024,"At Store Room, Grand Morod, Mapusa, Bardez Goa",Mapusa(MMC),4,"(15.5933, 73.8105)",Low,ResidentialArea
+641,Mapusa_Ps,2024,Theft (HBT Night),22-08-2024,"At Dempo Mansion, Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5918, 73.8114)",Medium,ParkingLot
+642,Mapusa_Ps,2024,Theft (HBT Night),17-09-2024,"At Store Room Located at Basement Floor of Vision Hospital, Dhuler, Mapusa, Goa",Mapusa(MMC),3,"(15.5945, 73.8106)",Medium,InHouse
+643,Mapusa_Ps,2024,Theft (HBT Night),19-09-2024,"At Villa No. 2, La-Masseria Gaunsawado, Sodiem, Siolim, Bardez Goa",Siolim,3,"(15.6182, 73.7800)",Low,Business/Store
+644,Mapusa_Ps,2024,Theft (HBT Night),22-09-2024,"At Shop Styled as Nasnodkar Jeweller, Shop No.27, Municipal Market, Mapusa Bardez Goa",Mapusa(MMC),4,"(15.5917, 73.8111)",High,Business/Store
+645,Mapusa_Ps,2024,Assault (Hurt),08-01-2024,"At Infront of Dangui Matching Centre, Municipal Market, Mapusa Bardez",Mapusa(MMC),2,"(15.5920, 73.8113)",High,NearCollege
+646,Mapusa_Ps,2024,Assault (Hurt),10-01-2024,"At Premises of Govt. Primary NearCollege, Namoshi, Guirim, Bardez Goa",Guirim,2,"(15.6062, 73.8128)",Medium,ReligiousPlace
+647,Mapusa_Ps,2024,Assault (Hurt),27-01-2024,"At Near Ajoba Temple, Xell, Sodiem, Siolim, Bardez Goa",Siolim,4,"(15.6190, 73.7815)",Low,ReligiousPlace
+648,Mapusa_Ps,2024,Assault (Hurt),15-02-2024,"At In Front of Maruti Temple, Goljuvem, Khorjuvem, Aldona Bardez Goa",Aldona,3,"(15.6118, 73.8480)",Low,InHouse
+649,Mapusa_Ps,2024,Assault (Hurt),20-02-2024,"At H. No. 388, Chadanwadi, Bastora, Bardez Goa",Bastora,3,"(15.6055, 73.8255)",Low,ResidentialArea
+650,Mapusa_Ps,2024,Assault (Hurt),21-02-2024,"At Camarkhajan, Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5923, 73.8108)",Medium,ReligiousPlace
+651,Mapusa_Ps,2024,Assault (Hurt),08-03-2024,"At Near Chapel, Kumarwado, Shelpem, Dhuler, Bardez Goa",Mapusa(MMC),2,"(15.5908, 73.8120)",Medium,Business/Store
+652,Mapusa_Ps,2024,Assault (Hurt),25-03-2024,"At Shop Styled as “Khan General Store” Located at Cottarbhat, Aldona Bardez Goa",Aldona,4,"(15.6122, 73.8462)",Low,ResidentialArea
+653,Mapusa_Ps,2024,Assault (Hurt),27-03-2024,"At Sorveywado, Guirim Bardez Goa",Guirim,4,"(15.6085, 73.8125)",Low,NearCollege
+654,Mapusa_Ps,2024,Assault (Hurt),11-04-2024,"At In Front of Kalangutkar Nursing Home, Mapusa Bardez Goa",Mapusa(MMC),2,"(15.5942, 73.8109)",Medium,NearCollege
+655,Mapusa_Ps,2024,Assault (Hurt),15-05-2024,"At Near Galaxy Hospital, Xelpem, Dhuler, Bardez Goa",Mapusa(MMC),3,"(15.5950, 73.8115)",Medium,NearCollege
+656,Mapusa_Ps,2024,Drug Related (NDPS),07-08-2024,"At Sokolwado, Ucassaim, Bardez Goa",Ucassaim,2,"(15.6215, 73.8545)",Low,ResidentialArea
+657,Mapusa_Ps,2024,Drug Related (NDPS),16-08-2024,"At Parking Lot Near Entrance Gate of Xavier’s College, Mapusa, Bardez, Goa",Mapusa(MMC),3,"(15.5929, 73.8112)",Medium,ParkingLot
+658,Mapusa_Ps,2024,Drug Related (NDPS),21-08-2024,"At Rear Side of New KTC Bus Stand, Mapusa Bardez Goa",Mapusa(MMC),3,"(15.5908, 73.8103)",High,localArea
+659,Colvale_PS,2021,Theft (Robbery),21-07-2021,"Tuwar Wadda, Chicalim Bardez Goa",Chicalim Bardez,3,"(15.3901, 73.8478)",Medium,ResidentialArea
+660,Colvale_PS,2021,Theft (Robbery),05-08-2021,"Near Major Bakery, Thivim",Thivim,1,"(15.6321, 73.8305)",Medium,Business/Store
+661,Colvale_PS,2021,Theft (HBT Night),27-06-2021,"TNK, H. No. 250/7 Bella Vista Wado Sirsaim Thivim Bardez Goa",Thivim,4,"(15.6345, 73.8298)",Low,InHouse
+662,Colvale_PS,2021,Theft (HBT Night),11-09-2021,"Roshan Industries, Karaswada Mapusa","Karaswada ,Mapusa",2,"(15.5912, 73.8115)",Medium,IndustrialArea
+663,Colvale_PS,2021,Theft (Auto Theft),10-07-2021,"Near Om Sai Hotel, Service Road, Colvale Bardez Goa",Colvale,2,"(15.6535, 73.8542)",Medium,Restaurant
+664,Colvale_PS,2021,Theft (House Theft),25-10-2021,"H.No. 307/9, Mushirwado, Colvale Bardez Goa",Colvale,4,"(15.6525, 73.8538)",Medium,InHouse
+665,Colvale_PS,2021,Theft (other  Theft ),26-06-2021,Colvale Four Road Junction,Colvale,4,"(15.6540, 73.8550)",High,OnRoad
+666,Colvale_PS,2021,Theft (other  Theft ),28-06-2021,"Plot No. 16, Industrial Estate, Colvale Bardez Goa",Colvale,5,"(15.6555, 73.8562)",Medium,IndustrialArea
+667,Colvale_PS,2021,Theft (other  Theft ),12-07-2021,"Near Ferry Point, Camurlim Bardez Goa",Camurlim,2,"(15.6545, 73.8625)",Medium,Beachside
+668,Colvale_PS,2021,Theft (other  Theft ),04-08-2021,"Suleonichogol, Nadora Bardez Goa",Nadora,2,"(15.6805, 73.8900)",Low,ResidentialArea
+669,Colvale_PS,2021,Theft (other  Theft ),20-08-2021,"Bank of Tributary of Chapora River, Chicalim Bardez Goa",Chicalim,4,"(15.3912, 73.8490)",Medium,Beachside
+670,Colvale_PS,2021,Theft (other  Theft ),25-08-2021,"Auchitwada, Thivim Bardez Goa",Thivim,5,"(15.6362, 73.8308)",Low,ResidentialArea
+671,Colvale_PS,2021,Theft (other  Theft ),07-09-2021,"Near Binani Industry, Colvale Bardez Goa",Colvale,2,"(15.6538, 73.8545)",Medium,IndustrialArea
+672,Colvale_PS,2021,Theft (other  Theft ),17-09-2021,"Amyani, Thivim Bardez Goa",Thivim,3,"(15.6352, 73.8320)",Low,ResidentialArea
+673,Colvale_PS,2021,Theft (other  Theft ),21-10-2021,"Open Parking Space at Sai Colony, Madel Thivim Bardez Goa",Thivim,4,"(15.6340, 73.8315)",Medium,ParkingLot
+674,Colvale_PS,2021,Theft (other  Theft ),04-11-2021,"Larsen and Toubro Site, TSS, Thivim Bardez Goa",Thivim,1,"(15.6355, 73.8303)",Medium,IndustrialArea
+675,Colvale_PS,2021,Theft (other  Theft ),12-11-2021,"River Chapora at Ferry Point, Camurlim Bardez Goa",Camurlim,2,"(15.6550, 73.8610)",Medium,Beachside
+676,Colvale_PS,2021,Theft (other  Theft ),01-12-2021,"Mushirwado, Colvale Bardez Goa",Colvale,1,"(15.6528, 73.8535)",Medium,ResidentialArea
+677,Colvale_PS,2021,Assault (Hurt),04-08-2021,"Madel, Thivim Bardez Goa",Thivim,1,"(15.6335, 73.8322)",Medium,ResidentialArea
+678,Colvale_PS,2021,Assault (Hurt),15-08-2021,"Binani, Colvale Bardez Goa",Colvale,4,"(15.6530, 73.8548)",Medium,IndustrialArea
+679,Colvale_PS,2021,Assault (Hurt),16-09-2021,"Near Fort Fattirwada, Colvale Bardez Goa",Colvale,3,"(15.6560, 73.8575)",Medium,ParkingLot
+680,Colvale_PS,2021,Drug Related (NDPS),27-07-2021,"Melita Restaurant, Ghotnicho Vhal, Colvale",Colvale,5,"(15.6575, 73.8588)",Medium,Restaurant
+681,Colvale_PS,2021,Drug Related (NDPS),22-08-2021,"Sai Shraddha Mobile Shop, near Greenland Bar, Madel Thivim Bardez Goa",Thivim,5,"(15.6365, 73.8292)",Medium,Business/Store
+682,Colvale_PS,2022,Theft (Robbery),26-09-2022,"Near Thivim Railway Station, Bardez Goa",Thivim,5,"(15.6325, 73.8320)",High,localArea
+683,Colvale_PS,2022,Theft (HBT Night),04-08-2022,"Housing Board Colony, Thivim Bardez Goa",Thivim,1,"(15.6330, 73.8310)",Medium,ResidentialArea
+684,Colvale_PS,2022,Theft (Auto Theft),25-01-2022,"Auchitwado, Thivim Bardez",Thivim,5,"(15.6368, 73.8305)",Low,ResidentialArea
+685,Colvale_PS,2022,Theft (Auto Theft),21-01-2022,"Outside H. No. 30/2, Moitem, Assonora, Bardez Goa",Assonora,4,"(15.6482, 73.8495)",Low,InHouse
+686,Colvale_PS,2022,Theft (Auto Theft),04-05-2022,"Parking Near Dhumaskar Hospital, Thivim Bardez Goa",Thivim,2,"(15.6342, 73.8308)",Medium,ParkingLot
+687,Colvale_PS,2022,Theft (Auto Theft),14-06-2022,Chicalim Bardez Goa,Chicalim,3,"(15.3908, 73.8482)",Medium,ResidentialArea
+688,Colvale_PS,2022,Theft (Auto Theft),30-04-2022,"Near Ganesh Temple, Ganeshnagar, Assonora, Bardez Goa",Assonora,5,"(15.6455, 73.8508)",Medium,ReligiousPlace
+689,Colvale_PS,2022,Theft (Auto Theft),28-11-2022,"Hotel Subodh Residency, Near Thivim Railway Station, Thivim Goa",Thivim,5,"(15.6325, 73.8320)",Medium,Restaurant
+690,Colvale_PS,2022,Theft (Chain Snatching),14-01-2022,"Sahil Residency, Thivim, Bardez Goa",Thivim,3,"(15.6318, 73.8312)",Medium,Restaurant
+691,Colvale_PS,2022,Theft (Chain Snatching),02-11-2022,"Darbarwaddo, Camurlim, Bardez",Camurlim,1,"(15.6540, 73.8625)",Low,ResidentialArea
+692,Colvale_PS,2022,Assault (Hurt),06-01-2022,"Block No. 3, Central Jail, Colvale Bardez",Colvale,2,"(15.6505, 73.8550)",High,IndustrialArea
+693,Colvale_PS,2022,Assault (Hurt),05-01-2022,"H. No. 45, Moitem Assonora Bardez",Assonora,2,"(15.6480, 73.8492)",Medium,InHouse
+694,Colvale_PS,2022,Assault (Hurt),11-01-2022,"Maina Patto, near Teen Madani, Camurlim",Camurlim,3,"(15.6522, 73.8608)",Low,ResidentialArea
+695,Colvale_PS,2022,Assault (Hurt),11-01-2022,"Moitemwado, Assonora",Assonora,3,"(15.6472, 73.8500)",Medium,ResidentialArea
+696,Colvale_PS,2022,Assault (Hurt),01-03-2022,"H.No. 149/1, Karkecho Val, Revora Bardez",Revora,1,"(15.6830, 73.8865)",Low,InHouse
+697,Colvale_PS,2022,Assault (Hurt),30-03-2022,"Borikade, Mainapatto, Camurlim",Camurlim,5,"(15.6515, 73.8615)",Medium,ResidentialArea
+698,Colvale_PS,2022,Assault (Hurt),14-04-2022,"Salche Bhat, Revora Bardez Goa",Revora,3,"(15.6840, 73.8875)",Low,LocalArea
+699,Colvale_PS,2022,Assault (Hurt),17-05-2022,"Mazil Wado, Revora Bardez Goa",Revora,4,"(15.6855, 73.8888)",Low,LocalArea
+700,Colvale_PS,2022,Assault (Hurt),21-05-2022,"Chikli, Colvale Bardez Goa",Colvale,4,"(15.6488, 73.8568)",Medium,ResidentialArea
+701,Colvale_PS,2022,Assault (Hurt),15-06-2022,"H.No. 880/3, Cansa, Thivim Bardez",Thivim,3,"(15.6358, 73.8298)",Low,InHouse
+702,Colvale_PS,2022,Assault (Hurt),30-06-2022,"Near Vailankanni Chapel, Opposite Modern Central Jail, Colvale Bardez Goa",Colvale,5,"(15.6512, 73.8540)",Medium,ReligiousPlace
+703,Colvale_PS,2022,Assault (Hurt),13-08-2022,"Central Jail, Colvale Bardez Goa",Colvale,2,"(15.6505, 73.8550)",High,IndustrialArea
+704,Colvale_PS,2022,Assault (Hurt),26-09-2022,"Near Tower of Housing Board, Colvale Bardez Goa",Colvale,5,"(15.6490, 73.8560)",Medium,ResidentialArea
+705,Colvale_PS,2022,Assault (Hurt),12-10-2022,"Near St. Anthony Chapel, Colvale Bardez Goa",Colvale,3,"(15.6485, 73.8575)",Medium,ReligiousPlace
+706,Colvale_PS,2022,Drug Related (NDPS),02-06-2022,"H.No. 100/3/6, Auchitwada, Thivim Bardez Goa",Thivim,1,"(15.6360, 73.8302)",Low,InHouse
+707,Colvale_PS,2022,Drug Related (NDPS),22-06-2022,"H. No. 280/1, Salchebhat, Revora Bardez",Revora,4,"(15.6835, 73.8882)",Low,InHouse
+708,Colvale_PS,2022,Drug Related (NDPS),22-09-2022,"Sanjana Furniture, Thorliwaddo, Chandai, Pirna Bardez Goa",Pirna,4,"(15.6900, 73.8930)",Medium,Business/Store
+709,Colvale_PS,2022,Drug Related (NDPS),20-10-2022,"H.No. 67/A/1, Housing Board Colony, Colvale Bardez Goa",Colvale,4,"(15.6480, 73.8570)",Medium,InHouse
+710,Colvale_PS,2022,Drug Related (NDPS),28-10-2022,"Shri. Kelbai Temple and Adjacent Temples, Pirna Bardez Goa",Pirna,5,"(15.6915, 73.8950)",Medium,ReligiousPlace
+711,Colvale_PS,2023,Theft (HBT Night),17-02-2023,"H.No. 123/1, Goa Housing Board, Mushirwada, Colvale Bardez Goa",Colvale,3,"(15.6495, 73.8568)",Medium,InHouse
+712,Colvale_PS,2023,Theft (HBT Night),27-09-2023,"Govt. Primary and Middle School, Thivim Bardez",Thivim,5,"(15.6345, 73.8305)",Medium,NearCollege
+713,Colvale_PS,2023,Theft (HBT Day),04-01-2023,"Housing Board, Colvale Bardez Goa",Colvale,2,"(15.6482, 73.8562)",Medium,ResidentialArea
+714,Colvale_PS,2023,Theft (HBT Day),18-06-2023,"Apollo Pharmacy, Assonora Bardez Goa",Assonora,4,"(15.6458, 73.8502)",Medium,ParkingLot
+715,Colvale_PS,2023,Theft (HBT Day),31-07-2023,"Office Section of St. Clara High School, Assonora Bardez Goa",Assonora,5,"(15.6462, 73.8498)",Medium,NearCollege
+716,Colvale_PS,2023,Theft (HBT Day),31-07-2023,"Madel Housing Board, Madel Bardez Goa",Thivim,5,"(15.6338, 73.8318)",Medium,LocalArea
+717,Colvale_PS,2023,Theft (HBT Day),27-12-2023,"Cansa Board, Thivim Bardez",Thivim,5,"(15.6365, 73.8300)",Low,ResidentialArea
+718,Colvale_PS,2023,Theft (House Theft),06-10-2023,"Near Opp. Binani, Near Service Road, Colvale Bardez Goa",Colvale,2,"(15.6530, 73.8550)",Medium,IndustrialArea
+719,Colvale_PS,2023,Theft (House Theft),26-10-2023,"In Front Courtyard of H. No. 13/75, Madel, Thivim Bardez Goa",Thivim,5,"(15.6340, 73.8312)",Medium,InHouse
+720,Colvale_PS,2023,Theft (House Theft),24-11-2023,"Koniwado, Colvale Bardez",Colvale,4,"(15.6460, 73.8570)",Medium,LocalArea
+721,Colvale_PS,2023,Theft (Auto Theft),28-03-2023,"Chicalim, Bardez Goa",Chicalim,5,"(15.3955, 73.8400)",Medium,ResidentialArea
+722,Colvale_PS,2023,Theft (Auto Theft),17-04-2023,"Near Junction, Colvale Bardez",Colvale,4,"(15.6475, 73.8565)",Medium,OnRoad
+723,Colvale_PS,2023,Theft (Auto Theft),31-05-2023,"H.No. 285/A, Poryacha Wadda, Camurlim Bardez",Camurlim,5,"(15.6500, 73.8600)",Low,InHouse
+724,Colvale_PS,2023,Theft (Chain Snatching),27-07-2023,"Fernandes Wado, Assonora Bardez Goa",Assonora,5,"(15.6465, 73.8510)",Medium,LocalArea
+725,Colvale_PS,2023,Assault (Hurt),21-03-2023,"Aditya Wines, Revora Bardez Goa",Revora,4,"(15.6825, 73.8850)",Medium,Business/Store
+726,Colvale_PS,2023,Assault (Hurt),30-04-2023,"Painiwada, Near Football Ground, Thivim Bardez Goa",Thivim,5,"(15.6320, 73.8310)",Medium,Beachside
+727,Colvale_PS,2023,Assault (Hurt),10-05-2023,"Moitem, Assonora Bardez Goa",Assonora,2,"(15.6478, 73.8495)",Medium,LocalArea
+728,Colvale_PS,2023,Assault (Hurt),20-05-2023,"Dry Fruit Shop, Near Thivim Railway Station",Thivim,3,"(15.6310, 73.8325)",Medium,Business/Store
+729,Colvale_PS,2023,Assault (Hurt),20-05-2023,"Gavoim, Thivim Bardez",Thivim,3,"(15.6350, 73.8290)",Low,LocalArea
+730,Colvale_PS,2023,Assault (Hurt),02-06-2023,"Dhanva, Thivim Bardez Goa",Thivim,1,"(15.6335, 73.8305)",Low,LocalArea
+731,Colvale_PS,2023,Assault (Hurt),06-08-2023,"Tuwar Wadda, Chicalim Bardez Goa",Chicalim Bardez,2,"(15.3945, 73.8410)",Medium,ResidentialArea
+732,Colvale_PS,2023,Assault (Hurt),15-08-2023,"Near Major Bakery, Thivim",Thivim,3,"(15.6342, 73.8315)",Medium,Business/Store
+733,Colvale_PS,2023,Assault (Hurt),24-09-2023,"TNK, H. No. 250/7 Bella Vista Wado Sirsaim Thivim Bardez Goa",Thivim,5,"(15.6375, 73.8280)",Medium,InHouse
+734,Colvale_PS,2023,Assault (Hurt),26-09-2023,"Roshan Industries, Karaswada Mapusa","Karaswada ,Mapusa",5,"(15.5950, 73.8140)",Medium,IndustrialArea
+735,Colvale_PS,2023,Assault (Hurt),26-09-2023,"Near Om Sai Hotel, Service Road, Colvale Bardez Goa",Colvale,5,"(15.6480, 73.8560)",Medium,Restaurant
+736,Colvale_PS,2023,Assault (Hurt),02-11-2023,"H.No. 307/9, Mushirwado, Colvale Bardez Goa",Colvale,1,"(15.6495, 73.8578)",Medium,InHouse
+737,Colvale_PS,2023,Assault (Hurt),30-12-2023,Colvale Four Road Junction,Colvale,5,"(15.6500, 73.8575)",High,OnRoad
+738,Colvale_PS,2023,Drug Related (NDPS),12-02-2023,"Plot No. 16, Industrial Estate, Colvale Bardez Goa",Colvale,3,"(15.6510, 73.8555)",Medium,IndustrialArea
+739,Colvale_PS,2023,Drug Related (NDPS),16-05-2023,"Near Ferry Point, Camurlim Bardez Goa",Camurlim,3,"(15.6525, 73.8620)",Medium,Beachside
+740,Colvale_PS,2023,Drug Related (NDPS),22-08-2023,"Suleonichogol, Nadora Bardez Goa",Nadora,4,"(15.6780, 73.8740)",Low,ResidentialArea
+741,Colvale_PS,2023,Drug Related (NDPS),20-10-2023,"Bank of Tributary of Chapora River, Chicalim Bardez Goa",Chicalim,4,"(15.3930, 73.8425)",Medium,ParkingLot
+742,Colvale_PS,2024,Theft (Robbery),29-04-2024,"Auchitwada, Thivim Bardez Goa",Thivim,5,"(15.6355, 73.8300)",Low,LocalArea
+743,Colvale_PS,2024,Theft (HBT Night),03-01-2024,"Near Binani Industry, Colvale Bardez Goa",Colvale,1,"(15.6528, 73.8552)",Medium,IndustrialArea
+744,Colvale_PS,2024,Theft (HBT Night),10-02-2024,"Amyani, Thivim Bardez Goa",Thivim,2,"(15.6360, 73.8295)",Low,LocalArea
+745,Colvale_PS,2024,Theft (HBT Night),20-02-2024,"Open Parking Space at Sai Colony, Madel Thivim Bardez Goa",Thivim,4,"(15.6340, 73.8312)",Medium,ParkingLot
+746,Colvale_PS,2024,Theft (HBT Night),15-05-2024,"Larsen and Toubro Site, TSS, Thivim Bardez Goa",Thivim,3,"(15.6328, 73.8308)",Medium,IndustrialArea
+747,Colvale_PS,2024,Theft (HBT Day),27-04-2024,"River Chapora at Ferry Point, Camurlim Bardez Goa",Camurlim,4,"(15.6550, 73.8640)",Medium,ParkingLot
+748,Colvale_PS,2024,Theft (House Theft),09-08-2024,"Mushirwado, Colvale Bardez Goa",Colvale,2,"(15.6498, 73.8585)",Medium,LocalArea
+749,Colvale_PS,2024,Theft (Auto Theft),17-04-2024,"Madel, Thivim Bardez Goa",Thivim,3,"(15.6350, 73.8315)",Low,ResidentialArea
+750,Colvale_PS,2024,Theft (Auto Theft),21-05-2024,"Binani, Colvale Bardez Goa",Colvale,4,"(15.6535, 73.8548)",Medium,IndustrialArea
+751,Colvale_PS,2024,Theft (Auto Theft),26-05-2024,"Near Fort Fattirwada, Colvale Bardez Goa",Colvale,5,"(15.6478, 73.8569)",Medium,ParkingLot
+752,Colvale_PS,2024,Theft (Chain Snatching),03-08-2024,"Melita Restaurant, Ghotnicho Vhal, Colvale",Colvale,1,"(15.6482, 73.8573)",Medium,Restaurant
+753,Colvale_PS,2024,Assault (Hurt),02-02-2024,"Sai Shraddha Mobile Shop, near Greenland Bar, Madel Thivim Bardez Goa",Thivim,1,"(15.6315, 73.8321)",Medium,Business/Store
+754,Colvale_PS,2024,Assault (Hurt),02-02-2024,"Near Thivim Railway Station, Bardez Goa",Thivim,1,"(15.6305, 73.8332)",High,localArea
+755,Colvale_PS,2024,Assault (Hurt),12-03-2024,"Housing Board Colony, Thivim Bardez Goa",Thivim,3,"(15.6320, 73.8340)",Medium,ResidentialArea
+756,Colvale_PS,2024,Assault (Hurt),14-03-2024,"Auchitwado, Thivim Bardez",Thivim,3,"(15.6345, 73.8297)",Low,LocalArea
+757,Colvale_PS,2024,Assault (Hurt),25-03-2024,"Outside H. No. 30/2, Moitem, Assonora, Bardez Goa",Assonora,5,"(15.6451, 73.8502)",Medium,LocalArea
+758,Colvale_PS,2024,Assault (Hurt),26-03-2024,"Parking Near Dhumaskar Hospital, Thivim Bardez Goa",Thivim,5,"(15.6310, 73.8328)",High,ParkingLot
+759,Colvale_PS,2024,Assault (Hurt),07-05-2024,Chicalim Bardez Goa,Chicalim,2,"(15.3955, 73.8400)",Medium,ResidentialArea
+760,Colvale_PS,2024,Assault (Hurt),14-05-2024,"Near Ganesh Temple, Ganeshnagar, Assonora, Bardez Goa",Assonora,3,"(15.6467, 73.8525)",Medium,ReligiousPlace
+761,Colvale_PS,2024,Assault (Hurt),24-06-2024,"Hotel Subodh Residency, Near Thivim Railway Station, Thivim Goa",Thivim,5,"(15.6308, 73.8330)",Medium,Restaurant
+762,Colvale_PS,2024,Assault (Hurt),15-08-2024,"Sahil Residency, Thivim, Bardez Goa",Thivim,3,"(15.6322, 73.8315)",Medium,Restaurant
+763,Colvale_PS,2024,Assault (Hurt),02-09-2024,"Darbarwaddo, Camurlim, Bardez",Camurlim,2,"(15.6480, 73.8615)",Low,LocalArea
+764,Colvale_PS,2024,Assault (Hurt),26-10-2024,"Block No. 3, Central Jail, Colvale Bardez",Colvale,4,"(15.6490, 73.8582)",High,IndustrialArea
+765,Colvale_PS,2024,Assault (Hurt),26-10-2024,"H. No. 45, Moitem Assonora Bardez",Assonora,4,"(15.6473, 73.8498)",Medium,InHouse
+766,Colvale_PS,2024,Assault (Hurt),03-11-2024,"Maina Patto, near Teen Madani, Camurlim",Camurlim,2,"(15.6457, 73.8621)",Low,LocalArea
+767,Colvale_PS,2024,Assault (Hurt),26-10-2024,"Moitemwado, Assonora",Assonora,4,"(15.6485, 73.8507)",Medium,LocalArea
+768,Colvale_PS,2024,Drug Related (NDPS),04-06-2024,"H.No. 149/1, Karkecho Val, Revora Bardez",Revora,2,"(15.6803, 73.8885)",Medium,InHouse
+769,Colvale_PS,2024,Drug Related (NDPS),07-08-2024,"Borikade, Mainapatto, Camurlim",Camurlim,2,"(15.6475, 73.8602)",Low,ResidentialArea
+770,Colvale_PS,2024,Drug Related (NDPS),11-10-2024,"Salche Bhat, Revora Bardez Goa",Revora,2,"(15.6820, 73.8868)",Medium,ResidentialArea
